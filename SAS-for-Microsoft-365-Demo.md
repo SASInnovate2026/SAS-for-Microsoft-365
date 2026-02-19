@@ -52,7 +52,7 @@ PowerPoint, and Outlook.
 
     When asked if you want to opt in to all your assumable groups, select **Yes**.
 
-![Login Page](<../OneDrive - SAS/Desktop/Innovate 2026/login1.png>)
+<img width="1922" height="1032" alt="Image" src="https://github.com/user-attachments/assets/34159138-15d2-4c92-8679-def1c816f28d" />
 
 ------------------------------------------------------------------------
 
