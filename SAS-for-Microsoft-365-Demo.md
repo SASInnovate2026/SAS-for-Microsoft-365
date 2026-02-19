@@ -40,17 +40,13 @@ PowerPoint, and Outlook.
 
 # Excel: Access the SAS Panel
 
-6.  Open the **Microsoft Excel** desktop application and create a new workbook.
+6. 4.	Open Excel and create a new workbook. Select SAS Viya in the ribbon along the top of the window. 
+Note: In this demonstration we use the Microsoft desktop applications, however SAS for Microsoft 365 works with the web applications as well.
 
-7.  Select the **SAS Viya** tab in the top ribbon.
+5.	In the SAS Viya tab, select Home. A panel opens on the right, prompting you to login to SAS Viya. In the SAS-provided virtual lab, enter Student as the User ID and Metadata0 as the password. Once you are connected, the panel provides access to all reports, data, and programs in the SAS Viya environment.
 
-8.  Select **Home** and log in with the following credentials:
+6.	In the Home tab, select the Favorites drop-down list. You can quickly access open, recent, and favorite SAS reports and data. Click   (More options) to view additional actions, such as the ability to upload data to SAS Viya and customize preferences.
 
-    **User ID:** Student
-
-    **Password:** Metadata0
-
-    When asked if you want to opt in to all your assumable groups, select **Yes**.
 
 <img width="1922" height="1032" alt="Image" src="https://github.com/user-attachments/assets/34159138-15d2-4c92-8679-def1c816f28d" />
 
