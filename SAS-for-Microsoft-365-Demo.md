@@ -40,42 +40,51 @@ PowerPoint, and Outlook.
 
 # Excel: Access the SAS Panel
 
-6. Open Excel and create a new workbook. Select SAS Viya in the ribbon along the top of the window. 
-Note: In this demonstration we use the Microsoft desktop applications, however SAS for Microsoft 365 works with the web applications as well.
+6. Open The Microsoft Excel desktop application and create a new workbook. Select **SAS Viya** in the ribbon along the top of the window. 
+**Note:** In this demonstration we use the Microsoft desktop applications, however SAS for Microsoft 365 works with the web applications as well.
 
-5.	In the SAS Viya tab, select Home. A panel opens on the right, prompting you to login to SAS Viya. In the SAS-provided virtual lab, enter Student as the User ID and Metadata0 as the password. Once you are connected, the panel provides access to all reports, data, and programs in the SAS Viya environment.
-
-6.	In the Home tab, select the Favorites drop-down list. You can quickly access open, recent, and favorite SAS reports and data. Click **More options** to view additional actions, such as the ability to upload data to SAS Viya and customize preferences.
-
+5.	From the SAS Viya tab, select **Home**. A panel opens on the right, prompting you to login to SAS Viya. In the SAS-provided virtual lab, enter **Student** as the User ID and **Metadata0** as the password. Once you are connected, the panel provides access to all reports, data, and programs in the SAS Viya environment.
 
 <img width="1922" height="1032" alt="Image" src="https://github.com/user-attachments/assets/34159138-15d2-4c92-8679-def1c816f28d" />
+
+6.	On the **Home** tab, select the **Favorites** drop-down list. You can quickly access open, recent, and favorite SAS reports and data. Click **More options** to view additional actions, such as the ability to upload data to SAS Viya and customize preferences.
+
+**screenshot here**
 
 ------------------------------------------------------------------------
 
 # Excel: Insert Report Content
 
-7.	From the SAS pane, select the Reports tab. Expand My Favorites and double-click the Warranty Analysis report.
+7.	From the SAS pane, select the **Reports** tab. Expand **My Favorites** and double-click the Warranty Analysis report.
+ **screenshot**
 
-8.	Drag the left border of the SAS pane to enlarge the report preview. In the Results tab, you can view the different report pages and interact with the report objects, just like in Visual Analytics.  For example, verify the Cost Overview report page is active. Click 2016 to filter the data and update the report objects.
+9.	Drag the left border of the SAS pane to enlarge the report preview. In the **Results** tab, you can view the different report pages and interact with the report objects, just like in Visual Analytics.  For example, verify the Cost Overview report page is active. Click **2016** to filter the data and update the report objects.
 
-9.	Hover over the bar chart and click   (Maximize). Alternatively, you can right-click the chart and select Maximize view.
+**screenshot**
+10.	Hover over the bar chart and click **Maximize**. Alternatively, you can right-click the chart and select Maximize view.
+**screenshot**
+11.	Select either **Object menu**or right-click the chart and select **Insert in document**. An image of the bar chart is added to the Excel worksheet, along with an indicator of the filter selection.
+**screenshot**
 
-10.	Select either   (Object menu) or right-click the chart and select Insert in Document. An image of the bar chart is added to the Excel worksheet, along with an indicator of the filter selection.
+12.	Select the graph image in the worksheet. From the SAS Viya tab in the ribbon, click **Selected Object** to update the object, remove it from the document, or unlink it from SAS.
+**screenshot**
 
-11.	Select the graph image in the worksheet. From the SAS Viya tab in the ribbon, click Selected Object to update the object, remove it from the document, or unlink it from SAS.
+14.	Resize the graph to make it wider, then click **Selected Object > Update** or **Update All** from the SAS Viya tab to update the image based on the new dimensions.
+**screenshot**
 
-12.	Resize the graph to make it wider, then click Selected Object > Update or Update All from the SAS Viya tab to update the image based on the new dimensions.
+16.	In the report preview in the SAS pane, select **2015** in the button bar. Right-click the graph and select **Update in document** to refresh the graph based on a different subset of the data.
+**screenshot**
 
-13.	In the report preview in the SAS pane, select 2015 in the button bar. Right-click the graph and select Update in document to refresh the graph based on a different subset of the data.  
+18.	The detailed table below the bar chart can also be inserted into Excel. First, select a cell in column A of the worksheet below the graph. This will determine where the next object will be inserted. Then right-click the table in the SAS pane and select **Insert in document**.
+**screenshot**
 
-14.	The detailed table below the bar chart can also be inserted into Excel. First, select a cell in column A of the worksheet below the graph. This will determine where the next object will be inserted. Then right-click the table in the SAS pane and select Insert in document.
+20.	The table can be further enhanced in the worksheet by using Excel features. Highlight the header row in the report, then select Home in the Excel ribbon. Click **Sort &** **Filter > Filter**. Use the option menu on Gross Labor Amount to select **Sort Largest to Smallest**. Next, select the data values under Gross Labor Amount and select **Conditional Formatting > Data Bars** and click the orange gradient fill option.
+**Note:** Depending on the Excel modifications made in the worksheet, the changes may or may not persist after updating report objects.  
+**screenshot**
 
-15.	The table can be further enhanced in the worksheet by using Excel features. Highlight the header row in the report, then select Home in the Excel ribbon. Click Sort & Filter > Filter. Use the option menu on Gross Labor Amount to select Sort Largest to Smallest. Next, select the data values under Gross Labor Amount and select Conditional Formatting > Data Bars and click the orange gradient fill option.
-Note: Depending on the Excel modifications made in the worksheet, the changes may or may not persist after updating report objects.  
+22.	Hover over the bar chart in the SAS pane and click **Restore** to return to the full report view.
 
-16.	Hover over the bar chart in the SAS pane and click   (Restore) to return to the full report view.
-
-17.	We have added two report objects, but you can also add all objects from a page. Select the Labor Details page to view the three visualizations. Then right-click anywhere on the page and select Insert active page in document. A new worksheet is created named Labor Details, which includes the three charts.
+23.	We have added two report objects, but you can also add all objects from a page. Select the **Labor Details** page to view the three visualizations. Then right-click anywhere on the page and select **Insert active page in document**. A new worksheet is created named Labor Details, which includes the three charts.
 
 
 ------------------------------------------------------------------------
