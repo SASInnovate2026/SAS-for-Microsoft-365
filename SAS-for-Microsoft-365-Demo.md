@@ -129,22 +129,23 @@ proc freq data=work.homeequity_update  order=freq;
 run;
 ```
 
-25.	Click Run. The Results tab includes the frequency report. Create a new worksheet and select the upper left cell. Click   (Insert in document) to add the results.
+25.	Click **Run**. The **Results** tab includes the frequency report. Create a new worksheet and select the upper left cell. Click **Insert in document** to add the results.
 
-26.	What if the program is modified? Return to the Code tab and add a TITLE statement to provide a custom title and ODS NOPROCTITLE statement to hide the procedure name.
-27.	title "Number of Loans by State"; 
-28.	
-29.	ods noproctitle;
-30.	proc freq data=work.homeequity_update order=freq;
-...
-31.	Click Run. In the SAS panel, click   (Update in document) to refresh the results in the worksheet.
+26.	What if the program is modified? Return to the **Code** tab and add a **TITLE** statement to provide a custom title and an **ODS NOPROCTITLE **statement to hide the procedure name.
 
-32.	Click Output Data to view the new table created by the program. Scroll to the right to confirm the City column is in proper case. Click   (Open) to access the Results tab. Here you have the option to filter and sort the data and insert the results into the Excel workbook.
+``` sas
+	title "Number of Loans by State"; 
+	ods noproctitle;
+	proc freq data=work.homeequity_update order=freq;
+```
 
-33.	Return to the Programs tab. There is a note indicating that the program is embedded in the document. This means that if the Excel workbook is saved, closed, and reopened, it will contain active links to your SAS content, as well as any embedded SAS programs. To save the program outside of the Excel file so that it is accessible in other applications or to your colleagues, click   (More options) and select Save. You can name the file and choose a storage location in SAS Content. Click Cancel.
+32.	Click **Run**. In the SAS panel, click **Update in document** to refresh the results in the worksheet.
 
-34.	Click   (More options) and notice there is also the ability to open a program, allowing you to access and execute code from an external file.
+33.	Click **Output Data** to view the new table created by the program. Scroll to the right to confirm the **City** column is in proper case. Click **Open** to access the **Results** tab. Here you have the option to filter and sort the data and insert the results into the Excel workbook.
 
+34.	Return to the **Programs** tab. There is a note indicating that the program is embedded in the document. This means that if the Excel workbook is saved, closed, and reopened, it will contain active links to your SAS content, as well as any embedded SAS programs. To save the program outside of the Excel file so that it is accessible in other applications or to your colleagues, click **More options** and select **Save**. You can name the file and choose a storage location in SAS Content. Click **Cancel**.
+
+35.	Click **More options** and notice there is also the ability to open a program, allowing you to access and execute code from an external file.
 
 ``` sas
 data work.homeequity_update;
@@ -161,9 +162,11 @@ Insert results into a new worksheet.
 
 ------------------------------------------------------------------------
 
-# Outlook & PowerPoint
+# PowerPoint
 
-NOTE: Outlook is not configured in the SAS Virtual Lab to complete this portion of the demonstration. It is recommended that you watch the video.
+**NOTE:** Outlook is not configured in the SAS Virtual Lab to complete this portion of the demonstration, so please watch the instructor's screen instead.
+
+**Demo notes for me, not students (take out of HOW instructions on github)**
 30.	Open Outlook to see some of the unique features available when sharing SAS content via email. Create a new email message, then click SAS Home to access the SAS pane.
 
 31.	In the Home tab, change the drop-down list to Favorites and double-click the Warranty Analysis report. You may also select Reports to access any reports in SAS Content.
@@ -182,14 +185,19 @@ o	Include cover page
 
 36.	Finally, you can add a link to the live report in SAS Visual Analytics. In the email message, type Link to full report:. Then click   (Insert report link in message). Additional text or information can be added before sending the email message.
 
-PowerPoint and Word: Insert Report Content
-You can also insert report objects into Microsoft Word documents and PowerPoint slides. The features in both applications are similar, so we will demonstrate in PowerPoint.
-37.	Open PowerPoint and create a new blank slide deck. Right-click the title slide and select Layout > Title Only. Type Cost Overview in the Title box.
+## PowerPoint and Word: Insert Report Content
 
-38.	From the SAS Viya tab in the ribbon, select Home and log in. In the Home tab in the SAS pane, select Favorites > Warranty Analysis. Expand the SAS pane to enlarge the view of the report.
+You can also insert report objects into Microsoft Word documents and PowerPoint slides. The features in both applications are similar, so we will demonstrate in PowerPoint. **Show word as well, take from course, time everything
+**
+37.	Open PowerPoint and create a new blank slide deck. Right-click the title slide and select **Layout > Title Only**. Type _Cost Overview_ in the Title box.
 
-39.	In the Cost Overview page, find the Bar Chart object and select   (Object menu), then click Insert in Document. Notice that the bar labels are staggered in the graph because there isn't enough space to display them on the same line. Resize the graph to fill the slide, then click   (Object menu) and select Update in document to regenerate the bar chart in the allocated space.
+38.	From the SAS Viya tab in the ribbon, select **Home** and log in. In the **Home** tab in the SAS pane, select **Favorites > Warranty Analysis**. Expand the SAS pane to enlarge the view of the report.
 
-40.	Create a new slide and change the layout to Blank. Insert the Cost Change from Previous Year by Primary Labor Group bubble plot. Again, resize the image to fill the slide, then click   (Update all objects in document). You may use all PowerPoint functionality to create beautiful, insightful presentations, with embedded, live results from your SAS reports. 
+39.	In the **Cost Overvie**w page, find the Bar Chart object and select **Object menu**, then click Insert in **document**. Notice that the bar labels are staggered in the graph because there isn't enough space to display them on the same line. Resize the graph to fill the slide, then click **Object menu** and select **Update in document** to regenerate the bar chart in the allocated space.
+
+40.	Create a new slide and change the layout to **Blank**. Insert the **Cost Change from Previous Year by Primary Labor Group** bubble plot. Again, resize the image to fill the slide, then click **Update all objects in document**. You may use all PowerPoint functionality to create beautiful, insightful presentations, with embedded, live results from your SAS reports.
+
+# Word
+
 We've toured several of the applications that are supported with SAS for Microsoft 365. To learn more, click Help in the SAS Viya ribbon to access complete documentation.  
 
