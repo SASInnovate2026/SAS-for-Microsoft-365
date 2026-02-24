@@ -34,8 +34,9 @@ Add links to sections here
 <img width="425" height="336" alt="Image" src="https://github.com/user-attachments/assets/975a6eb3-29aa-4526-b3cf-d51140e9e531" />
 
 3. Click **Sign in**. If asked to opt in to all your assumable groups, select **Yes**.
+<img width="420" height="380" alt="Image" src="https://github.com/user-attachments/assets/0e9a2996-3d78-425b-99b7-f4da270c81fa" />
 
-6.  Open **SAS Visual Analytics** from the Applications menu by
+4.  Open **SAS Visual Analytics** from the Applications menu by
     selecting **Explore and Visualize**.
 
 7.  Navigate to:
