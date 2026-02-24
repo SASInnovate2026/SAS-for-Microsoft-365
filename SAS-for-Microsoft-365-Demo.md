@@ -45,14 +45,16 @@ Add links to sections here
 5.  Navigate to:
 
     **SAS Content** \> **Products** \> **SAS Visual Analytics** \> **Samples**
+<img width="1559" height="397" alt="Image" src="https://github.com/user-attachments/assets/a587f280-0e70-4dbb-8fbb-0cd19d164710" />
 
+6.  Double-click **Warranty Analysis** to open the report. This report has multiple pages and report objects that can be viewed and shared in Microsoft applications.
+<img width="1917" height="946" alt="Image" src="https://github.com/user-attachments/assets/adf1b460-7433-49b8-87b7-edee8e4f7f81" />
 
-8.  Double-click **Warranty Analysis** to open the report. This report has multiple pages and report objects that can be viewed and shared in Microsoft applications.
+7.  Select **Opened Reports** in the upper-right corner, then click **Close all reports**.
+<img width="396" height="225" alt="Image" src="https://github.com/user-attachments/assets/103c04f5-45a2-46c9-b103-ebcf27c43a10" />
 
-9.  Select **Opened Reports** in the upper-right corner, then click **Close all reports**. 
-
-10.  Right-click **Warranty Analysis** and select **Add to Favorites**.
-
+8.  Right-click **Warranty Analysis** and select **Add to Favorites**.
+<img width="1555" height="669" alt="Image" src="https://github.com/user-attachments/assets/f6001f40-1789-41ef-9d08-df61b5068f61" />
 ------------------------------------------------------------------------
 
 # Excel: Access the SAS Panel
