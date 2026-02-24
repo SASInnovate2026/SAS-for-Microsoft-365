@@ -67,14 +67,13 @@ Add links to sections here
 <img width="1922" height="1032" alt="Image" src="https://github.com/user-attachments/assets/34159138-15d2-4c92-8679-def1c816f28d" />
 
 
-12.	On the **Home** tab, select **Favorites** from the drop-down list. You can quickly access open, recent, and favorite SAS reports and data. Click **More options** to view additional actions, such as the ability to upload data to SAS Viya and customize preferences.
+12.	On the **Home** tab, select **Favorites** from the drop-down list. You can quickly access open, recent, and favorite SAS reports and data.
+
+13.	Click **More options** to view additional actions, such as the ability to upload data to SAS Viya. (Think more on this section, maybe point out list view, upload data here then later do an example changing preferences.)
 
 <img width="730" height="410" alt="Image" src="https://github.com/user-attachments/assets/98e45e35-1e2b-48d6-bc46-cd551cff1cc6" />
 
-
-------------------------------------------------------------------------
-
-# Excel: Insert Report Content
+# Part 3: Inserting Report Content
 
 9.	From the SAS pane, select the **Reports** tab. Expand **My Favorites** and double-click the Warranty Analysis report.
  **screenshot**
