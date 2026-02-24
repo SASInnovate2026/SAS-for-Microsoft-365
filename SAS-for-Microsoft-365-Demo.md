@@ -31,20 +31,22 @@ Add links to sections here
     **Username:** student
     
     **Password:** Metadata0
+<img width="425" height="336" alt="Image" src="https://github.com/user-attachments/assets/975a6eb3-29aa-4526-b3cf-d51140e9e531" />
 
-4. Click **Sign in**. If asked to opt in to all your assumable groups, select **Yes**.
-5.  Open **SAS Visual Analytics** from the Applications menu by
+3. Click **Sign in**. If asked to opt in to all your assumable groups, select **Yes**.
+
+6.  Open **SAS Visual Analytics** from the Applications menu by
     selecting **Explore and Visualize**.
 
-6.  Navigate to:
+7.  Navigate to:
 
     **SAS Content** \> **Products** \> **SAS Visual Analytics** \> **Samples**
 
-7.  Double-click **Warranty Analysis** to open the report. This report has multiple pages and report objects that can be viewed and shared in Microsoft applications.
+8.  Double-click **Warranty Analysis** to open the report. This report has multiple pages and report objects that can be viewed and shared in Microsoft applications.
 
-8.  Select **Opened Reports** in the upper-right corner, then click **Close all reports**. 
+9.  Select **Opened Reports** in the upper-right corner, then click **Close all reports**. 
 
-9.  Right-click **Warranty Analysis** and select **Add to Favorites**.
+10.  Right-click **Warranty Analysis** and select **Add to Favorites**.
 
 ------------------------------------------------------------------------
 
