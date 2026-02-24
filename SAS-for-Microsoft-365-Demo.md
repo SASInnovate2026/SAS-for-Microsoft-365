@@ -38,9 +38,10 @@ Add links to sections here
 
 4.  Open **SAS Visual Analytics** from the Applications menu by
     selecting **Explore and Visualize**.
-<img width="1922" height="1043" alt="Image" src="https://github.com/user-attachments/assets/fc77248e-361a-4904-b4c4-7e1868357fd3" />
 
-<img width="279" height="594" alt="Image" src="https://github.com/user-attachments/assets/61db7fe1-eec0-45d9-9a3d-0328fcc02a31" />
+<img height="400" alt="Image" src="https://github.com/user-attachments/assets/fc77248e-361a-4904-b4c4-7e1868357fd3" />
+
+<img height="600" alt="Image" src="https://github.com/user-attachments/assets/61db7fe1-eec0-45d9-9a3d-0328fcc02a31" />
 
 5.  Navigate to:
 
@@ -76,37 +77,38 @@ Add links to sections here
 # Part 3: Inserting Report Content
 
 14.	From the SAS pane, select the **Reports** tab. Expand **My Favorites** and double-click the **Warranty Analysis** report.
- <img width="459" height="789" alt="Image" src="https://github.com/user-attachments/assets/be671d6e-22e0-4e68-9ecf-fa95987b7f55" />
+ <img height = "550" alt="Image" src="https://github.com/user-attachments/assets/be671d6e-22e0-4e68-9ecf-fa95987b7f55" />
  
 
 15.	Drag the left border of the SAS pane to enlarge the report preview. In the **Results** tab, you can view the different report pages and interact with the report objects, just like in Visual Analytics.  For example, verify the **Cost Overview** report page is active. Click **2016** to filter the data and update the report objects.
-<img width="853" height="789" alt="Image" src="https://github.com/user-attachments/assets/2436095a-33fd-45c0-9c6c-e417603d73d1" />
+<img height = "550" alt="Image" src="https://github.com/user-attachments/assets/2436095a-33fd-45c0-9c6c-e417603d73d1" />
 
 
 16.	Hover over the bar chart and click **Maximize**. Alternatively, you can right-click the chart and select **Maximize view**.
-<img width="658" height="225" alt="Image" src="https://github.com/user-attachments/assets/d460a177-dbfb-4773-98f0-dbb1c2cf6f39" />
+<img height = "200" alt="Image" src="https://github.com/user-attachments/assets/d460a177-dbfb-4773-98f0-dbb1c2cf6f39" />
 
 17.	Ensure the top left cell of the Excel worksheet is selected. Select either **Object menu** or right-click the chart and select **Insert in document**. An image of the bar chart is added to the Excel worksheet, along with an indicator of the filter selection.
-<img width="848" height="789" alt="Image" src="https://github.com/user-attachments/assets/e800fc35-4e56-4087-bf77-0ffb4e879f9a" />
+<img height = "550" alt="Image" src="https://github.com/user-attachments/assets/e800fc35-4e56-4087-bf77-0ffb4e879f9a" />
 
 <img width="1920" height="808" alt="Image" src="https://github.com/user-attachments/assets/90eb162a-643c-4795-8940-e0418c4009f8" />
 
 
 18.	Select the graph image in the worksheet. From the SAS Viya tab in the ribbon, click **Selected Object** to update the object, remove it from the document, or unlink it from SAS.
-<img width="692" height="764" alt="Image" src="https://github.com/user-attachments/assets/9dc79177-7481-42f2-bf3c-1c1209901aa1" />
+<img  height = "550" alt="Image" src="https://github.com/user-attachments/assets/9dc79177-7481-42f2-bf3c-1c1209901aa1" />
 
 19.	Resize the graph to make it wider, then click **Selected Object > Update** or **Update All** from the SAS Viya tab to update the image based on the new dimensions. Notice the x axis tick labels no longer overlap.
-<img width="930" height="908" alt="Image" src="https://github.com/user-attachments/assets/9764ca81-73d2-462a-94f6-0cfb596a8b32" />
+<img  height = "550" alt="Image" src="https://github.com/user-attachments/assets/9764ca81-73d2-462a-94f6-0cfb596a8b32" />
 
 20.	In the report preview in the SAS pane, select **2015** in the button bar. Select the **Update in document** icon or right-click the graph and click **Update in document** to refresh the graph based on a different subset of the data.
-<img width="848" height="784" alt="Image" src="https://github.com/user-attachments/assets/9907fa9b-90e3-4783-ad50-a417a8d12674" />
+<img height = "550" " alt="Image" src="https://github.com/user-attachments/assets/9907fa9b-90e3-4783-ad50-a417a8d12674" />
 
 21.	The detailed table below the bar chart can also be inserted into Excel. First, select a cell in column A of the worksheet below the graph. This will determine where the next object will be inserted. Then right-click the table in the SAS pane and select **Insert in document**.
 
+<img height = "550"  alt="Image" src="https://github.com/user-attachments/assets/4b260e94-ed66-4341-94a9-163e13d76ac4" />
 
-<img width="849" height="782" alt="Image" src="https://github.com/user-attachments/assets/fc64e407-ef42-4253-bcbf-3e19178d8414" />
+<img height = "550"  alt="Image" src="https://github.com/user-attachments/assets/fc64e407-ef42-4253-bcbf-3e19178d8414" />
 
-<img width="1071" height="810" alt="Image" src="https://github.com/user-attachments/assets/f930e391-587f-4352-8661-fe2a0a298450" />
+<img height = "550" alt="Image" src="https://github.com/user-attachments/assets/f930e391-587f-4352-8661-fe2a0a298450" />
 
 22.	The table can be further enhanced in the worksheet by using Excel features. Highlight the header row in the report, then select Home in the Excel ribbon. Click **Sort &** **Filter > Filter**. Use the option menu on Gross Labor Amount to select **Sort Largest to Smallest**. Next, select the data values under Gross Labor Amount and select **Conditional Formatting > Data Bars** and click the orange gradient fill option.
 **Note:** Depending on the Excel modifications made in the worksheet, the changes may or may not persist after updating report objects.  
