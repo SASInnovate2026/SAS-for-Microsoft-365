@@ -38,10 +38,14 @@ Add links to sections here
 
 4.  Open **SAS Visual Analytics** from the Applications menu by
     selecting **Explore and Visualize**.
+<img width="1922" height="1043" alt="Image" src="https://github.com/user-attachments/assets/fc77248e-361a-4904-b4c4-7e1868357fd3" />
 
-7.  Navigate to:
+<img width="279" height="594" alt="Image" src="https://github.com/user-attachments/assets/61db7fe1-eec0-45d9-9a3d-0328fcc02a31" />
+
+5.  Navigate to:
 
     **SAS Content** \> **Products** \> **SAS Visual Analytics** \> **Samples**
+
 
 8.  Double-click **Warranty Analysis** to open the report. This report has multiple pages and report objects that can be viewed and shared in Microsoft applications.
 
