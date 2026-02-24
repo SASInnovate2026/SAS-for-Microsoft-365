@@ -87,13 +87,16 @@ Add links to sections here
 <img width="658" height="225" alt="Image" src="https://github.com/user-attachments/assets/d460a177-dbfb-4773-98f0-dbb1c2cf6f39" />
 
 12.	Ensure the top left cell of the Excel worksheet is selected. Select either **Object menu** or right-click the chart and select **Insert in document**. An image of the bar chart is added to the Excel worksheet, along with an indicator of the filter selection.
+<img width="848" height="789" alt="Image" src="https://github.com/user-attachments/assets/e800fc35-4e56-4087-bf77-0ffb4e879f9a" />
+
+<img width="1920" height="808" alt="Image" src="https://github.com/user-attachments/assets/90eb162a-643c-4795-8940-e0418c4009f8" />
 
 
 13.	Select the graph image in the worksheet. From the SAS Viya tab in the ribbon, click **Selected Object** to update the object, remove it from the document, or unlink it from SAS.
-**screenshot**
+<img width="692" height="764" alt="Image" src="https://github.com/user-attachments/assets/9dc79177-7481-42f2-bf3c-1c1209901aa1" />
 
 14.	Resize the graph to make it wider, then click **Selected Object > Update** or **Update All** from the SAS Viya tab to update the image based on the new dimensions.
-**screenshot**
+<img width="930" height="908" alt="Image" src="https://github.com/user-attachments/assets/9764ca81-73d2-462a-94f6-0cfb596a8b32" />
 
 15.	In the report preview in the SAS pane, select **2015** in the button bar. Right-click the graph and select **Update in document** to refresh the graph based on a different subset of the data.
 **screenshot**
