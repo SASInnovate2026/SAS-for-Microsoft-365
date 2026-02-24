@@ -99,10 +99,13 @@ Add links to sections here
 <img width="930" height="908" alt="Image" src="https://github.com/user-attachments/assets/9764ca81-73d2-462a-94f6-0cfb596a8b32" />
 
 20.	In the report preview in the SAS pane, select **2015** in the button bar. Right-click the graph and select **Update in document** to refresh the graph based on a different subset of the data.
-**screenshot**
+<img width="848" height="784" alt="Image" src="https://github.com/user-attachments/assets/9907fa9b-90e3-4783-ad50-a417a8d12674" />
 
 21.	The detailed table below the bar chart can also be inserted into Excel. First, select a cell in column A of the worksheet below the graph. This will determine where the next object will be inserted. Then right-click the table in the SAS pane and select **Insert in document**.
-**screenshot**
+
+<img width="849" height="782" alt="Image" src="https://github.com/user-attachments/assets/fc64e407-ef42-4253-bcbf-3e19178d8414" />
+
+<img width="1071" height="810" alt="Image" src="https://github.com/user-attachments/assets/f930e391-587f-4352-8661-fe2a0a298450" />
 
 22.	The table can be further enhanced in the worksheet by using Excel features. Highlight the header row in the report, then select Home in the Excel ribbon. Click **Sort &** **Filter > Filter**. Use the option menu on Gross Labor Amount to select **Sort Largest to Smallest**. Next, select the data values under Gross Labor Amount and select **Conditional Formatting > Data Bars** and click the orange gradient fill option.
 **Note:** Depending on the Excel modifications made in the worksheet, the changes may or may not persist after updating report objects.  
