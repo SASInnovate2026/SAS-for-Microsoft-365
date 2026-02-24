@@ -21,25 +21,30 @@ Add links to sections here
 
 ------------------------------------------------------------------------
 
-# Part 1: Examine the Warranty Analysis Report in SAS Visual Analytics and Save to Favorites
+# Part 1: Examine the Warranty Analysis Report in SAS Visual Analytics
 
 1.  Open Google Chrome and click **SASLanding** from the bookmarks bar.
+<img width="765" height="122" alt="Image" src="https://github.com/user-attachments/assets/f08d069a-1310-4759-a9e4-de4fce217c64" />
+
 2.  The login page should be pre-populated. If not, use the following credentials to log in:
+
     **Username:** student
+    
     **Password:** Metadata0
-3. Click **Sign in**. If asked to opt in to all your assumable groups, select **Yes**.
-4.  Open **SAS Visual Analytics** from the Applications menu by
+
+4. Click **Sign in**. If asked to opt in to all your assumable groups, select **Yes**.
+5.  Open **SAS Visual Analytics** from the Applications menu by
     selecting **Explore and Visualize**.
 
-5.  Navigate to:
+6.  Navigate to:
 
     **SAS Content** \> **Products** \> **SAS Visual Analytics** \> **Samples**
 
-6.  Double-click **Warranty Analysis** to open the report. This report has multiple pages and report objects that can be viewed and shared in Microsoft applications.
+7.  Double-click **Warranty Analysis** to open the report. This report has multiple pages and report objects that can be viewed and shared in Microsoft applications.
 
-7.  Select **Opened Reports** in the upper-right corner, then click **Close all reports**. 
+8.  Select **Opened Reports** in the upper-right corner, then click **Close all reports**. 
 
-8.  Right-click **Warranty Analysis** and select **Add to Favorites**.
+9.  Right-click **Warranty Analysis** and select **Add to Favorites**.
 
 ------------------------------------------------------------------------
 
