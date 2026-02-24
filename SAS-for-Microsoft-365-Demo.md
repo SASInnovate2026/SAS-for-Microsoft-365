@@ -9,6 +9,7 @@ PowerPoint, and Outlook.
 ------------------------------------------------------------------------
 
 # Table of Contents
+Add links to sections here
 
 # Notes for me
 
@@ -17,24 +18,28 @@ PowerPoint, and Outlook.
 -   Consider including a QR code linking to documentation or workshop
     resources.
 -   Add SVG icons and screenshots where helpful.
--   Upload workshop instructions to GitHub for easy access.
 
 ------------------------------------------------------------------------
 
 # Part 1: Open the Warranty Analysis Report in SAS Visual Analytics (edit once I have the image)
 
-1.  Open **SAS Visual Analytics** from the Applications menu by
+1.  Open Google Chrome and click **SASLanding** from the Bookmarks bar.
+2.  The login page should be pre-populated. If not, use the following credentials to log in:
+    **Username:** student
+    **Password:** Metadata0
+3. Click **Sign in**. If asked to opt in to all your assumable groups, select **Yes**.
+4.  Open **SAS Visual Analytics** from the Applications menu by
     selecting **Explore and Visualize**.
 
-2.  Navigate to:
+5.  Navigate to:
 
-    SAS Content \> Products \> SAS Visual Analytics \> Samples
+    **SAS Content** \> **Products** \> **SAS Visual Analytics** \> **Samples**
 
-3.  Double-click **Warranty Analysis** to open the report.
+6.  Double-click **Warranty Analysis** to open the report. This report has multiple pages and report objects that can be viewed and shared in Microsoft applications.
 
-4.  Select **Opened Reports** → **Close all reports**.
+7.  Select **Opened Reports** in the upper-right corner, then click **Close all reports**. 
 
-5.  Right-click **Warranty Analysis** and select **Add to Favorites**.
+8.  Right-click **Warranty Analysis** and select **Add to Favorites**.
 
 ------------------------------------------------------------------------
 
