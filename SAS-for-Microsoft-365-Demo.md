@@ -75,8 +75,9 @@ Add links to sections here
 
 # Part 3: Inserting Report Content
 
-9.	From the SAS pane, select the **Reports** tab. Expand **My Favorites** and double-click the Warranty Analysis report.
- **screenshot**
+14.	From the SAS pane, select the **Reports** tab. Expand **My Favorites** and double-click the Warranty Analysis report.
+ <img width="459" height="789" alt="Image" src="https://github.com/user-attachments/assets/be671d6e-22e0-4e68-9ecf-fa95987b7f55" />
+ 
 
 10.	Drag the left border of the SAS pane to enlarge the report preview. In the **Results** tab, you can view the different report pages and interact with the report objects, just like in Visual Analytics.  For example, verify the Cost Overview report page is active. Click **2016** to filter the data and update the report objects.
 
