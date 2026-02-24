@@ -21,9 +21,9 @@ Add links to sections here
 
 ------------------------------------------------------------------------
 
-# Part 1: Open the Warranty Analysis Report in SAS Visual Analytics (edit once I have the image)
+# Part 1: Examine the Warranty Analysis Report in SAS Visual Analytics and Save to Favorites
 
-1.  Open Google Chrome and click **SASLanding** from the Bookmarks bar.
+1.  Open Google Chrome and click **SASLanding** from the bookmarks bar.
 2.  The login page should be pre-populated. If not, use the following credentials to log in:
     **Username:** student
     **Password:** Metadata0
