@@ -1,4 +1,4 @@
-# SAS for Microsoft 365 Demo Guide
+# SAS for Microsoft 365 Demo Steps
 
 Bringing together SAS Viya and Microsoft 365 allows you to take
 advantage of the strengths of both worlds. You can use SAS Viya to
@@ -55,7 +55,6 @@ Add links to sections here
 
 8.  Right-click **Warranty Analysis** and select **Add to Favorites**.
 <img width="1555" height="669" alt="Image" src="https://github.com/user-attachments/assets/f6001f40-1789-41ef-9d08-df61b5068f61" />
-------------------------------------------------------------------------
 
 # Excel: Access the SAS Panel
 
