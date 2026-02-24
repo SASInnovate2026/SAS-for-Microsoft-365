@@ -80,12 +80,14 @@ Add links to sections here
  
 
 10.	Drag the left border of the SAS pane to enlarge the report preview. In the **Results** tab, you can view the different report pages and interact with the report objects, just like in Visual Analytics.  For example, verify the Cost Overview report page is active. Click **2016** to filter the data and update the report objects.
+<img width="853" height="789" alt="Image" src="https://github.com/user-attachments/assets/2436095a-33fd-45c0-9c6c-e417603d73d1" />
 
-**screenshot**
+
 11.	Hover over the bar chart and click **Maximize**. Alternatively, you can right-click the chart and select Maximize view.
-**screenshot**
-12.	Select either **Object menu**or right-click the chart and select **Insert in document**. An image of the bar chart is added to the Excel worksheet, along with an indicator of the filter selection.
-**screenshot**
+<img width="658" height="225" alt="Image" src="https://github.com/user-attachments/assets/d460a177-dbfb-4773-98f0-dbb1c2cf6f39" />
+
+12.	Ensure the top left cell of the Excel worksheet is selected. Select either **Object menu** or right-click the chart and select **Insert in document**. An image of the bar chart is added to the Excel worksheet, along with an indicator of the filter selection.
+
 
 13.	Select the graph image in the worksheet. From the SAS Viya tab in the ribbon, click **Selected Object** to update the object, remove it from the document, or unlink it from SAS.
 **screenshot**
