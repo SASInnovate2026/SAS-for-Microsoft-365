@@ -139,15 +139,26 @@ Add links to sections here
 ------------------------------------------------------------------------
 
 # Excel: Insert Data
-18.	Next, select the **Data** tab in the SAS pane. You can view tables defined in your SAS Viya environment and insert data into Excel for local exploration and processing. Select **All tables > SAS Studio compute context server**, then select the **SASHELP** library and the **HOMEEQUITY** table.
+27.	Next, select the **Data** tab in the SAS pane. You can view tables defined in your SAS Viya environment and insert data into Excel for local exploration and processing. Select **All tables > SAS Studio compute context server**, then select the **SASHELP** library and the **HOMEEQUITY** table.
 
-19.	A new Results tab is now active, providing an opportunity to subset the data and select table options prior to inserting it into the Excel worksheet.
+homeequityfind screenshot
 
-1.	In the **General** tab, change Insert rows to **All rows**.  
+28. A new **Results** tab is now active, providing an opportunity to subset the data and select table options prior to inserting it into the Excel worksheet.
 
-2.	In the **Columns** tab, clear the check boxes for the following columns: **YOJ**, **DEROG**, **DELINQ**, **CLAGE**, **NINQ**, and **CLNO**.
+29.	In the **General** tab, change Insert rows to **All rows**.  
 
-3.	In the **Filter** tab, you can either build an expression graphically, or code the filter expression from scratch. Click **Graphical builder** and confirm the selected variable is **BAD**. Click **Filter** then type **1** in the Value field. When BAD=1, it indicates the loan defaulted. Note that you can also use the Lookup Value button to select values from the input data. Click **OK**.  
+allrows screenshot
+
+30.	In the **Columns** tab, clear the check boxes for the following columns: **YOJ**, **DEROG**, **DELINQ**, **CLAGE**, **NINQ**, and **CLNO**.
+
+columns screenshot
+
+31.	In the **Filter** tab, you can either build an expression graphically, or code the filter expression from scratch. Click **Graphical builder** and confirm the selected variable is **BAD**. Click **Filter** then type **1** in the Value field. When BAD=1, it indicates the loan defaulted. Note that you can also use the Lookup Value button to select values from the input data. Click **OK**.  
+
+graphical screenshot
+graph filter screenshot
+bad1 screenshot
+loan screenshot
 
 4.	From the **Sort** tab, click **Add sort** and change the column to **LOAN**.
 
