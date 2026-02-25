@@ -162,7 +162,9 @@ loan screenshot
 
 4.	From the **Sort** tab, click **Add sort** and change the column to **LOAN**.
 
-20.	Create a new worksheet in the Excel file and rename it **HOMEEQUITY** Data. Click the first cell in the upper left corner, then in the SAS pane click **Insert table in document.** The selected data is added to the spreadsheet. You can take advantage of Excel functionality to enhance the view with filtering, sorting, and formatting.  
+sort screenshot
+
+20.	Create a new worksheet in the Excel file and rename it **HOMEEQUITY Data**. Click the first cell in the upper left corner, then in the SAS pane click **Insert table in document.** The selected data is added to the spreadsheet. You can take advantage of Excel functionality to enhance the view with filtering, sorting, and formatting.  
 
 21.	Not only can you view SAS data in Excel, but there is also an option in the SAS Viya tab in the ribbon to upload data. That provides the opportunity to prepare data in Excel, then load it to SAS Viya for further analysis in applications like SAS Studio, Visual Analytics, or Model Studio. **do this if time**
 
