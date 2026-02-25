@@ -93,16 +93,17 @@ Add links to sections here
 <img width="1920" height="808" alt="Image" src="https://github.com/user-attachments/assets/90eb162a-643c-4795-8940-e0418c4009f8" />
 
 
-18.	Select the graph image in the worksheet. From the SAS Viya tab in the ribbon, click **Selected Object** to update the object, remove it from the document, or unlink it from SAS.
+18.	Select the graph image in the worksheet. From the SAS Viya tab in the ribbon, click **Selected Object** to update the object, remove it from the document, find it in the SAS pane, or unlink it from SAS.
 <img  height = "550" alt="Image" src="https://github.com/user-attachments/assets/9dc79177-7481-42f2-bf3c-1c1209901aa1" />
 
 19.	Resize the graph to make it wider, then click **Selected Object > Update** or **Update All** from the SAS Viya tab to update the image based on the new dimensions. Notice the x axis tick labels no longer overlap.
 <img  height = "550" alt="Image" src="https://github.com/user-attachments/assets/9764ca81-73d2-462a-94f6-0cfb596a8b32" />
 
 20.	In the report preview in the SAS pane, select **2015** in the button bar. Select the **Update in document** icon or right-click the graph and click **Update in document** to refresh the graph based on a different subset of the data.
-<img height = "550" " alt="Image" src="https://github.com/user-attachments/assets/9907fa9b-90e3-4783-ad50-a417a8d12674" />
 
-21.	The detailed table below the bar chart can also be inserted into Excel. First, select a cell in column A of the worksheet below the graph. This will determine where the next object will be inserted. Then right-click the table in the SAS pane and select **Insert in document**.
+<img height = "550" alt="Image" src="https://github.com/user-attachments/assets/9907fa9b-90e3-4783-ad50-a417a8d12674" />
+
+22.	The detailed table below the bar chart can also be inserted into Excel. First, select a cell in column A of the worksheet below the graph. This will determine where the next object will be inserted. Then right-click the table in the SAS pane and select **Insert in document**.
 
 <img height = "550"  alt="Image" src="https://github.com/user-attachments/assets/4b260e94-ed66-4341-94a9-163e13d76ac4" />
 
@@ -110,14 +111,28 @@ Add links to sections here
 
 <img height = "550" alt="Image" src="https://github.com/user-attachments/assets/f930e391-587f-4352-8661-fe2a0a298450" />
 
-22.	The table can be further enhanced in the worksheet by using Excel features. Highlight the header row in the report, then select Home in the Excel ribbon. Click **Sort &** **Filter > Filter**. Use the option menu on Gross Labor Amount to select **Sort Largest to Smallest**. Next, select the data values under Gross Labor Amount and select **Conditional Formatting > Data Bars** and click the orange gradient fill option.
+22.	The table can be further enhanced in the worksheet by using Excel features. Highlight the header row in the report, then select Home in the Excel ribbon. Click **Sort &** **Filter > Filter**.
+
+Filterdata screenshot
+
+23.	Use the option menu on Gross Labor Amount to select **Sort Largest to Smallest**.
+
+sort screenshot
+
+24.	Next, select the data values under Gross Labor Amount and select **Conditional Formatting > Data Bars** and click the orange gradient fill option.
 **Note:** Depending on the Excel modifications made in the worksheet, the changes may or may not persist after updating report objects.  
-**screenshot**
+
+orange screenshot
+
+completebars screenshot
 
 23.	Hover over the bar chart in the SAS pane and click **Restore** to return to the full report view.
 
+restore screenshot
 24.	We have added two report objects, but you can also add all objects from a page. Select the **Labor Details** page to view the three visualizations. Then right-click anywhere on the page and select **Insert active page in document**. A new worksheet is created named Labor Details, which includes the three charts.
 
+insertactive page screenshot
+labor deteails screenshot
 
 ------------------------------------------------------------------------
 
