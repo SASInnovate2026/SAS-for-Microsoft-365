@@ -103,7 +103,7 @@ Add links to sections here
 
 <img height = "550" alt="Image" src="https://github.com/user-attachments/assets/9907fa9b-90e3-4783-ad50-a417a8d12674" />
 
-22.	The detailed table below the bar chart can also be inserted into Excel. First, select a cell in column A of the worksheet below the graph. This will determine where the next object will be inserted. Then right-click the table in the SAS pane and select **Insert in document**.
+21.	The detailed table below the bar chart can also be inserted into Excel. First, select a cell in column A of the worksheet below the graph. This will determine where the next object will be inserted. Then right-click the table in the SAS pane and select **Insert in document**.
 
 <img height = "550"  alt="Image" src="https://github.com/user-attachments/assets/4b260e94-ed66-4341-94a9-163e13d76ac4" />
 
@@ -111,28 +111,30 @@ Add links to sections here
 
 <img height = "550" alt="Image" src="https://github.com/user-attachments/assets/f930e391-587f-4352-8661-fe2a0a298450" />
 
-22.	The table can be further enhanced in the worksheet by using Excel features. Highlight the header row in the report, then select Home in the Excel ribbon. Click **Sort &** **Filter > Filter**.
+22.	The table can be further enhanced in the worksheet by using Excel features. Highlight the header row in the report, then select **Home** in the Excel ribbon. Click **Sort &** **Filter > Filter**.
 
-Filterdata screenshot
+<img width="1920" height="301" alt="Image" src="https://github.com/user-attachments/assets/41cef4b2-d86c-48aa-b230-0d95b7067a5f" />
 
 23.	Use the option menu on Gross Labor Amount to select **Sort Largest to Smallest**.
 
-sort screenshot
+<img  height="550" alt="Image" src="https://github.com/user-attachments/assets/605902a4-94c5-4d72-8a0c-f9b59da978c9" />
 
 24.	Next, select the data values under Gross Labor Amount and select **Conditional Formatting > Data Bars** and click the orange gradient fill option.
 **Note:** Depending on the Excel modifications made in the worksheet, the changes may or may not persist after updating report objects.  
 
-orange screenshot
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/22e93d46-1e7d-41d1-91ec-7a8c7a8dab3d" />
 
-completebars screenshot
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/515b5b70-9dcc-4234-9fc5-edeaed133566" />
 
-23.	Hover over the bar chart in the SAS pane and click **Restore** to return to the full report view.
+25.	Hover over the bar chart in the SAS pane and click **Restore** to return to the full report view.
 
-restore screenshot
-24.	We have added two report objects, but you can also add all objects from a page. Select the **Labor Details** page to view the three visualizations. Then right-click anywhere on the page and select **Insert active page in document**. A new worksheet is created named Labor Details, which includes the three charts.
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/b771a337-c708-4bf5-b0e4-b730a69e0694" />
 
-insertactive page screenshot
-labor deteails screenshot
+26.	We have added two report objects, but you can also add all objects from a page. Select the **Labor Details** page to view the three visualizations. Then right-click anywhere on the page and select **Insert active page in document**. A new worksheet is created named Labor Details, which includes the three charts.
+
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/d1f8dbc0-18c0-4a58-b53f-59815989fe1f" />
+
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/a8bd6c69-2585-4d89-beba-2e3eb69317a0" />
 
 ------------------------------------------------------------------------
 
