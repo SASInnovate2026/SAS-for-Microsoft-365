@@ -198,9 +198,9 @@ run;
 
 25.	Click **Run**. The **Results** tab includes the frequency report. Create a new worksheet and select the upper left cell. Click **Insert in document** to add the results.
 
-program screenshot
+<img width="674" height="790" alt="Image" src="https://github.com/user-attachments/assets/24417db0-7f48-44f4-b537-511f7d79a320" />
 
-insertresults screenshot
+<img width="677" height="784" alt="Image" src="https://github.com/user-attachments/assets/d33140bb-05a1-4b2c-bb46-73545cd417e7" />
 
 27.	What if the program is modified? Return to the **Code** tab and add a **TITLE** statement above the PROC FREQ step to provide a custom title and an **ODS NOPROCTITLE **statement to hide the procedure name. Click **Run**.
 
@@ -208,17 +208,19 @@ insertresults screenshot
 	title "Number of Loans by State"; 
 	ods noproctitle;
 ```
-insertedtitle screenshot
+<img width="677" height="785" alt="Image" src="https://github.com/user-attachments/assets/e9bcf691-f841-4e00-bdf9-cceb5c838914" />
+
 32.	In the SAS panel, click **Update in document** to refresh the results in the worksheet.
 
-updatewithtitle screenshot
+<img width="677" height="787" alt="Image" src="https://github.com/user-attachments/assets/a48fce1d-ea01-4b6a-97dc-b770e68be0de" />
 
-newtable screenshot
+<img width="549" height="970" alt="Image" src="https://github.com/user-attachments/assets/530b3860-62c1-44a1-9434-53e908fa4446" />
 
 33.	Click **Output Data** to view the new table created by the program. Scroll to the right to confirm the **City** column is in proper case. Click **Open** to access the **Results** tab. Here you have the option to filter and sort the data and insert the results into the Excel workbook.
 
-output screenshot
-homeequity update screenshot
+<img width="677" height="785" alt="Image" src="https://github.com/user-attachments/assets/7735bd38-1219-4544-8555-791e8c8d08d8" />
+
+<img width="675" height="784" alt="Image" src="https://github.com/user-attachments/assets/a1957b32-75bb-4b25-8b2b-256b383b5780" />
 
 35.	Return to the **Programs** tab. There is a note indicating that the program is embedded in the document. This means that if the Excel workbook is saved, closed, and reopened, it will contain active links to your SAS content, as well as any embedded SAS programs. To save the program outside of the Excel file so that it is accessible in other applications or to your colleagues, click **More options** and select **Save**. You can name the file and choose a storage location in SAS Content. Click **Cancel**.
 
