@@ -141,28 +141,29 @@ Add links to sections here
 # Excel: Insert Data
 27.	Next, select the **Data** tab in the SAS pane. You can view tables defined in your SAS Viya environment and insert data into Excel for local exploration and processing. Select **All tables > SAS Studio compute context server**, then select the **SASHELP** library and the **HOMEEQUITY** table.
 
-homeequityfind screenshot
+<img width="641" height="780" alt="Image" src="https://github.com/user-attachments/assets/5b90167c-0625-44c8-9476-755f6858ce58" />
 
 28. A new **Results** tab is now active, providing an opportunity to subset the data and select table options prior to inserting it into the Excel worksheet.
 
 29.	In the **General** tab, change Insert rows to **All rows**.  
 
-allrows screenshot
+<img width="267" height="240" alt="Image" src="https://github.com/user-attachments/assets/da92f3a7-ef9d-4a9b-9201-a1118c6dabc4" />
 
 30.	In the **Columns** tab, clear the check boxes for the following columns: **YOJ**, **DEROG**, **DELINQ**, **CLAGE**, **NINQ**, and **CLNO**.
 
-columns screenshot
+<img width="615" height="565" alt="Image" src="https://github.com/user-attachments/assets/85855e29-215f-4882-9af9-966cfab246ef" />
 
 31.	In the **Filter** tab, you can either build an expression graphically, or code the filter expression from scratch. Click **Graphical builder** and confirm the selected variable is **BAD**. Click **Filter** then type **1** in the Value field. When BAD=1, it indicates the loan defaulted. Note that you can also use the Lookup Value button to select values from the input data. Click **OK**.  
 
-graphical screenshot
-graph filter screenshot
-bad1 screenshot
-loan screenshot
+<img width="616" height="599" alt="Image" src="https://github.com/user-attachments/assets/003bcfef-6d0f-4fc2-8bbd-82d4d0791eed" />
+
+<img width="612" height="191" alt="Image" src="https://github.com/user-attachments/assets/4eea69ec-4280-4991-8e5e-086a72947253" />
+
+<img width="620" height="516" alt="Image" src="https://github.com/user-attachments/assets/fd541567-8fba-4e3e-b48d-00cafb84fdd3" />
 
 4.	From the **Sort** tab, click **Add sort** and change the column to **LOAN**.
 
-sort screenshot
+<img width="607" height="162" alt="Image" src="https://github.com/user-attachments/assets/dafc432b-739c-4bf0-a850-2c129436cd05" />
 
 20.	Create a new worksheet in the Excel file and rename it **HOMEEQUITY Data**. Click the first cell in the upper left corner, then in the SAS pane click **Insert table in document.** The selected data is added to the spreadsheet. You can take advantage of Excel functionality to enhance the view with filtering, sorting, and formatting.  
 
