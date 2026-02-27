@@ -155,9 +155,9 @@ Add links to sections here
 
 31.	In the **Filter** tab, you can either build an expression graphically, or code the filter expression from scratch. Click **Graphical builder** and confirm the selected variable is **BAD**. Click **Filter** then type **1** in the Value field. When BAD=1, it indicates the loan defaulted. Note that you can also use the Lookup Value button to select values from the input data. Click **OK**.  
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/003bcfef-6d0f-4fc2-8bbd-82d4d0791eed" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/003bcfef-6d0f-4fc2-8bbd-82d4d0791eed" /> <br>
 
-<img width="612" height="191" alt="Image" src="https://github.com/user-attachments/assets/4eea69ec-4280-4991-8e5e-086a72947253" />
+<img width="612" height="191" alt="Image" src="https://github.com/user-attachments/assets/4eea69ec-4280-4991-8e5e-086a72947253" /> <br>
 
 <img width="620" height="516" alt="Image" src="https://github.com/user-attachments/assets/fd541567-8fba-4e3e-b48d-00cafb84fdd3" />
 
@@ -198,7 +198,7 @@ run;
 
 25.	Click **Run**. The **Results** tab includes the frequency report. Create a new worksheet and select the upper left cell. Click **Insert in document** to add the results.
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/24417db0-7f48-44f4-b537-511f7d79a320" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/24417db0-7f48-44f4-b537-511f7d79a320" /> <br>
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/d33140bb-05a1-4b2c-bb46-73545cd417e7" />
 
@@ -212,21 +212,21 @@ run;
 
 32.	In the SAS panel, click **Update in document** to refresh the results in the worksheet.
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/a48fce1d-ea01-4b6a-97dc-b770e68be0de" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/a48fce1d-ea01-4b6a-97dc-b770e68be0de" /> <br>
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/530b3860-62c1-44a1-9434-53e908fa4446" />
 
 33.	Click **Output Data** to view the new table created by the program. Scroll to the right to confirm the **City** column is in proper case. Click **Open** to access the **Results** tab. Here you have the option to filter and sort the data and insert the results into the Excel workbook.
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/7aebead9-9eed-4561-9d44-d19cc6ae31e9" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/7aebead9-9eed-4561-9d44-d19cc6ae31e9" /> <br>
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/a1957b32-75bb-4b25-8b2b-256b383b5780" />
 
 35.	Return to the **Programs** tab. There is a note indicating that the program is embedded in the document. This means that if the Excel workbook is saved, closed, and reopened, it will contain active links to your SAS content, as well as any embedded SAS programs. To save the program outside of the Excel file so that it is accessible in other applications or to your colleagues, click **More options** and select **Save**. You can name the file and choose a storage location in SAS Content. Click **Cancel**.
 
-<img width="671" height="227" alt="Image" src="https://github.com/user-attachments/assets/d06d43b5-7e3f-4231-9614-95f98580eb7e" />
+<img width="671" height="227" alt="Image" src="https://github.com/user-attachments/assets/d06d43b5-7e3f-4231-9614-95f98580eb7e" /> <br>
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/495443a0-926b-4a38-8169-e369e3ab94ee" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/495443a0-926b-4a38-8169-e369e3ab94ee" /> <br>
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/503ec9db-57d8-4a97-a0ef-cd1b3d745256" />
 
