@@ -167,11 +167,11 @@ Add links to sections here
 
 20.	Create a new worksheet in the Excel file and rename it **HOMEEQUITY Data**. Click the first cell in the upper left corner, then in the SAS pane click **Insert table in document.** The selected data is added to the spreadsheet. You can take advantage of Excel functionality to enhance the view with filtering, sorting, and formatting.  (Encourage people to play with Excel features??)
 
-homeequinserted screenshot
+<img width="1924" height="807" alt="Image" src="https://github.com/user-attachments/assets/8b0a83f6-d267-4d56-86bd-006ab17ca87c" />
 
 21.	Not only can you view SAS data in Excel, but there is also an option in the SAS Viya tab in the ribbon to upload data. This provides the opportunity to prepare data in Excel, then load it to SAS Viya for further analysis in applications like SAS Studio, Visual Analytics, or Model Studio. **do this if time**
 
-uploaddata screenshot
+<img width="613" height="143" alt="Image" src="https://github.com/user-attachments/assets/5fc73447-f4ca-46ce-b8f7-5cfb3bfe1544" />
 
 ------------------------------------------------------------------------
 
