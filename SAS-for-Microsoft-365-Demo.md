@@ -202,7 +202,7 @@ run;
 
 <img width="677" height="784" alt="Image" src="https://github.com/user-attachments/assets/d33140bb-05a1-4b2c-bb46-73545cd417e7" />
 
-27.	What if the program is modified? Return to the **Code** tab and add a **TITLE** statement above the PROC FREQ step to provide a custom title and an **ODS NOPROCTITLE **statement to hide the procedure name. Click **Run**.
+27.	What if the program is modified? Return to the **Code** tab and add a **TITLE** statement above the PROC FREQ step to provide a custom title and an **ODS NOPROCTITLE** statement to hide the procedure name. Click **Run**.
 
 ``` sas
 	title "Number of Loans by State"; 
@@ -218,6 +218,7 @@ run;
 
 33.	Click **Output Data** to view the new table created by the program. Scroll to the right to confirm the **City** column is in proper case. Click **Open** to access the **Results** tab. Here you have the option to filter and sort the data and insert the results into the Excel workbook.
 
+<img width="680" height="788" alt="Image" src="https://github.com/user-attachments/assets/7aebead9-9eed-4561-9d44-d19cc6ae31e9" />
 
 <img width="675" height="784" alt="Image" src="https://github.com/user-attachments/assets/a1957b32-75bb-4b25-8b2b-256b383b5780" />
 
