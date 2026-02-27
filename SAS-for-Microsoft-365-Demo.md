@@ -198,21 +198,31 @@ run;
 
 25.	Click **Run**. The **Results** tab includes the frequency report. Create a new worksheet and select the upper left cell. Click **Insert in document** to add the results.
 
-26.	What if the program is modified? Return to the **Code** tab and add a **TITLE** statement to provide a custom title and an **ODS NOPROCTITLE **statement to hide the procedure name.
+program screenshot
+
+insertresults screenshot
+
+27.	What if the program is modified? Return to the **Code** tab and add a **TITLE** statement above the PROC FREQ step to provide a custom title and an **ODS NOPROCTITLE **statement to hide the procedure name. Click **Run**.
 
 ``` sas
 	title "Number of Loans by State"; 
 	ods noproctitle;
-	proc freq data=work.homeequity_update order=freq;
 ```
+insertedtitle screenshot
+32.	In the SAS panel, click **Update in document** to refresh the results in the worksheet.
 
-32.	Click **Run**. In the SAS panel, click **Update in document** to refresh the results in the worksheet.
+updatewithtitle screenshot
+
+newtable screenshot
 
 33.	Click **Output Data** to view the new table created by the program. Scroll to the right to confirm the **City** column is in proper case. Click **Open** to access the **Results** tab. Here you have the option to filter and sort the data and insert the results into the Excel workbook.
 
-34.	Return to the **Programs** tab. There is a note indicating that the program is embedded in the document. This means that if the Excel workbook is saved, closed, and reopened, it will contain active links to your SAS content, as well as any embedded SAS programs. To save the program outside of the Excel file so that it is accessible in other applications or to your colleagues, click **More options** and select **Save**. You can name the file and choose a storage location in SAS Content. Click **Cancel**.
+output screenshot
+homeequity update screenshot
 
-35.	Click **More options** and notice there is also the ability to open a program, allowing you to access and execute code from an external file.
+35.	Return to the **Programs** tab. There is a note indicating that the program is embedded in the document. This means that if the Excel workbook is saved, closed, and reopened, it will contain active links to your SAS content, as well as any embedded SAS programs. To save the program outside of the Excel file so that it is accessible in other applications or to your colleagues, click **More options** and select **Save**. You can name the file and choose a storage location in SAS Content. Click **Cancel**.
+
+36.	Click **More options** and notice there is also the ability to open a program, allowing you to access and execute code from an external file.
 
 ``` sas
 data work.homeequity_update;
