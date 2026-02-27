@@ -141,7 +141,7 @@ Add links to sections here
 # Excel: Insert Data
 27.	Next, select the **Data** tab in the SAS pane. You can view tables defined in your SAS Viya environment and insert data into Excel for local exploration and processing. Select **All tables > SAS Studio compute context server**, then select the **SASHELP** library and the **HOMEEQUITY** table.
 
-<img width="641" height="780" alt="Image" src="https://github.com/user-attachments/assets/5b90167c-0625-44c8-9476-755f6858ce58" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/5b90167c-0625-44c8-9476-755f6858ce58" />
 
 28. A new **Results** tab is now active, providing an opportunity to subset the data and select table options prior to inserting it into the Excel worksheet.
 
@@ -151,11 +151,11 @@ Add links to sections here
 
 30.	In the **Columns** tab, clear the check boxes for the following columns: **YOJ**, **DEROG**, **DELINQ**, **CLAGE**, **NINQ**, and **CLNO**.
 
-<img width="615" height="565" alt="Image" src="https://github.com/user-attachments/assets/85855e29-215f-4882-9af9-966cfab246ef" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/85855e29-215f-4882-9af9-966cfab246ef" />
 
 31.	In the **Filter** tab, you can either build an expression graphically, or code the filter expression from scratch. Click **Graphical builder** and confirm the selected variable is **BAD**. Click **Filter** then type **1** in the Value field. When BAD=1, it indicates the loan defaulted. Note that you can also use the Lookup Value button to select values from the input data. Click **OK**.  
 
-<img width="616" height="599" alt="Image" src="https://github.com/user-attachments/assets/003bcfef-6d0f-4fc2-8bbd-82d4d0791eed" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/003bcfef-6d0f-4fc2-8bbd-82d4d0791eed" />
 
 <img width="612" height="191" alt="Image" src="https://github.com/user-attachments/assets/4eea69ec-4280-4991-8e5e-086a72947253" />
 
@@ -167,7 +167,7 @@ Add links to sections here
 
 20.	Create a new worksheet in the Excel file and rename it **HOMEEQUITY Data**. Click the first cell in the upper left corner, then in the SAS pane click **Insert table in document.** The selected data is added to the spreadsheet. You can take advantage of Excel functionality to enhance the view with filtering, sorting, and formatting.  (Encourage people to play with Excel features??)
 
-<img width="1924" height="807" alt="Image" src="https://github.com/user-attachments/assets/8b0a83f6-d267-4d56-86bd-006ab17ca87c" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/8b0a83f6-d267-4d56-86bd-006ab17ca87c" />
 
 21.	Not only can you view SAS data in Excel, but there is also an option in the SAS Viya tab in the ribbon to upload data. This provides the opportunity to prepare data in Excel, then load it to SAS Viya for further analysis in applications like SAS Studio, Visual Analytics, or Model Studio. **do this if time**
 
@@ -198,9 +198,9 @@ run;
 
 25.	Click **Run**. The **Results** tab includes the frequency report. Create a new worksheet and select the upper left cell. Click **Insert in document** to add the results.
 
-<img width="674" height="790" alt="Image" src="https://github.com/user-attachments/assets/24417db0-7f48-44f4-b537-511f7d79a320" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/24417db0-7f48-44f4-b537-511f7d79a320" />
 
-<img width="677" height="784" alt="Image" src="https://github.com/user-attachments/assets/d33140bb-05a1-4b2c-bb46-73545cd417e7" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/d33140bb-05a1-4b2c-bb46-73545cd417e7" />
 
 27.	What if the program is modified? Return to the **Code** tab and add a **TITLE** statement above the PROC FREQ step to provide a custom title and an **ODS NOPROCTITLE** statement to hide the procedure name. Click **Run**.
 
@@ -208,31 +208,31 @@ run;
 	title "Number of Loans by State"; 
 	ods noproctitle;
 ```
-<img width="677" height="785" alt="Image" src="https://github.com/user-attachments/assets/e9bcf691-f841-4e00-bdf9-cceb5c838914" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/e9bcf691-f841-4e00-bdf9-cceb5c838914" />
 
 32.	In the SAS panel, click **Update in document** to refresh the results in the worksheet.
 
-<img width="677" height="787" alt="Image" src="https://github.com/user-attachments/assets/a48fce1d-ea01-4b6a-97dc-b770e68be0de" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/a48fce1d-ea01-4b6a-97dc-b770e68be0de" />
 
-<img width="549" height="970" alt="Image" src="https://github.com/user-attachments/assets/530b3860-62c1-44a1-9434-53e908fa4446" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/530b3860-62c1-44a1-9434-53e908fa4446" />
 
 33.	Click **Output Data** to view the new table created by the program. Scroll to the right to confirm the **City** column is in proper case. Click **Open** to access the **Results** tab. Here you have the option to filter and sort the data and insert the results into the Excel workbook.
 
-<img width="680" height="788" alt="Image" src="https://github.com/user-attachments/assets/7aebead9-9eed-4561-9d44-d19cc6ae31e9" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/7aebead9-9eed-4561-9d44-d19cc6ae31e9" />
 
-<img width="675" height="784" alt="Image" src="https://github.com/user-attachments/assets/a1957b32-75bb-4b25-8b2b-256b383b5780" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/a1957b32-75bb-4b25-8b2b-256b383b5780" />
 
 35.	Return to the **Programs** tab. There is a note indicating that the program is embedded in the document. This means that if the Excel workbook is saved, closed, and reopened, it will contain active links to your SAS content, as well as any embedded SAS programs. To save the program outside of the Excel file so that it is accessible in other applications or to your colleagues, click **More options** and select **Save**. You can name the file and choose a storage location in SAS Content. Click **Cancel**.
 
 <img width="671" height="227" alt="Image" src="https://github.com/user-attachments/assets/d06d43b5-7e3f-4231-9614-95f98580eb7e" />
 
-<img width="677" height="782" alt="Image" src="https://github.com/user-attachments/assets/495443a0-926b-4a38-8169-e369e3ab94ee" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/495443a0-926b-4a38-8169-e369e3ab94ee" />
 
-<img width="683" height="786" alt="Image" src="https://github.com/user-attachments/assets/503ec9db-57d8-4a97-a0ef-cd1b3d745256" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/503ec9db-57d8-4a97-a0ef-cd1b3d745256" />
 
 36.	Click **More options** and notice there is also the ability to open a program, allowing you to access and execute code from an external file.
 
-<img width="679" height="783" alt="Image" src="https://github.com/user-attachments/assets/07c235f5-fbaf-4ce3-bc49-b9003a65160d" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/07c235f5-fbaf-4ce3-bc49-b9003a65160d" />
 
 ------------------------------------------------------------------------
 
