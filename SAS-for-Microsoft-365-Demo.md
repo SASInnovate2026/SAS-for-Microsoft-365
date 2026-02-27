@@ -234,6 +234,8 @@ run;
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/07c235f5-fbaf-4ce3-bc49-b9003a65160d" />
 
+Show inserting SAS Viya job objects, text adam and lynne about file for cars selection
+
 ------------------------------------------------------------------------
 
 # PowerPoint
