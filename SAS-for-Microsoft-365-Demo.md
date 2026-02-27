@@ -218,19 +218,20 @@ run;
 
 33.	Click **Output Data** to view the new table created by the program. Scroll to the right to confirm the **City** column is in proper case. Click **Open** to access the **Results** tab. Here you have the option to filter and sort the data and insert the results into the Excel workbook.
 
-<img width="677" height="785" alt="Image" src="https://github.com/user-attachments/assets/7735bd38-1219-4544-8555-791e8c8d08d8" />
 
 <img width="675" height="784" alt="Image" src="https://github.com/user-attachments/assets/a1957b32-75bb-4b25-8b2b-256b383b5780" />
 
 35.	Return to the **Programs** tab. There is a note indicating that the program is embedded in the document. This means that if the Excel workbook is saved, closed, and reopened, it will contain active links to your SAS content, as well as any embedded SAS programs. To save the program outside of the Excel file so that it is accessible in other applications or to your colleagues, click **More options** and select **Save**. You can name the file and choose a storage location in SAS Content. Click **Cancel**.
 
-embedded screenshot
-saveprogram screenshot
-cancel screenshot
+<img width="671" height="227" alt="Image" src="https://github.com/user-attachments/assets/d06d43b5-7e3f-4231-9614-95f98580eb7e" />
+
+<img width="677" height="782" alt="Image" src="https://github.com/user-attachments/assets/495443a0-926b-4a38-8169-e369e3ab94ee" />
+
+<img width="683" height="786" alt="Image" src="https://github.com/user-attachments/assets/503ec9db-57d8-4a97-a0ef-cd1b3d745256" />
 
 36.	Click **More options** and notice there is also the ability to open a program, allowing you to access and execute code from an external file.
 
-open program screenshot
+<img width="679" height="783" alt="Image" src="https://github.com/user-attachments/assets/07c235f5-fbaf-4ce3-bc49-b9003a65160d" />
 
 ------------------------------------------------------------------------
 
