@@ -236,7 +236,31 @@ run;
 
 Show inserting SAS Viya job objects, text adam and lynne about file for cars selection
 
+# Excel: Inserting SAS Viya Jobs Results
+
+From the **Reports** tab of the SAS pane navigate to **SAS Content** > **Courses** > **VMS** and open the **Cars Selection** SAS Viya job.
+
+screenshot
+
+From the Prompts tab, select **Toyota** as the vehicle make.  
+
+Click **Run** to execute the job. 
+
+Create a new worksheet in the workbook and rename it **Cars Data.**
+
+Click the top left cell of the worksheet and insert the results by clicking the **Insert in document** icon.  
+
+Navigate to the **Home** tab of the SAS pane and select **Recent** from the dropdown menu. Double-click the **Cars Selection** SAS Viya job to open another instance of the job.  
+
+Notice the job opens in the **Results** tab with the number (1) next to it.  
+
+From the **Prompts** tab, select **Lexus** from the dropdown menu and run the job. 
+
+Select a cell in column A below the Toyota table in the worksheet and click the **Insert in document** icon in the SAS pane.  
+
 ------------------------------------------------------------------------
+
+
 
 # PowerPoint
 
