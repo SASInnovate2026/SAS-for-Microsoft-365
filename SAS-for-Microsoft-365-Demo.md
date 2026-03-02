@@ -266,7 +266,7 @@ From the **Prompts** tab, select **Lexus** from the dropdown menu and run the jo
 
 Select a cell in column A below the Toyota table in the worksheet and click the **Insert in document** icon in the SAS pane.  
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/00063241-b63d-4c4e-8898-4b2692d9e3ea" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/ed7230ea-56c8-4445-bc83-a8f9a52537e7" />
 
 ------------------------------------------------------------------------
 
