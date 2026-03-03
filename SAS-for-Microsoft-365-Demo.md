@@ -284,9 +284,11 @@ You can also insert report objects into Microsoft Word documents and PowerPoint 
 <img width="1912" height="1004" alt="Image" src="https://github.com/user-attachments/assets/cdb0181f-0052-48a9-b2d2-64b8b9eb6252" />
 
 38.	From the SAS Viya tab in the ribbon, select **Home** and log in with the username **Student** and password **Metadata0**. When asked if you want to opt in to all your assumable groups, select **Yes**.
+
+
 <img width="594" height="823" alt="Image" src="https://github.com/user-attachments/assets/1e4d37c0-95c3-4a21-ac55-9f0c2b04be54" />
 
-39. Click the Student, Applications icon in the top right corner of the SAS pane and select **Settings**. Uncheck the **Display filter** option and click **Save**.
+40. Click the Student, Applications icon in the top right corner of the SAS pane and select **Settings**. Uncheck the **Display filter** option and click **Save**.
 
 <img width="1914" height="1004" alt="Image" src="https://github.com/user-attachments/assets/27882ddb-bc47-420d-ae71-b205afe373c9" />
 
