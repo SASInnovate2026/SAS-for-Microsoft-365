@@ -286,7 +286,10 @@ titleonly screenshot
 38.	From the SAS Viya tab in the ribbon, select **Home** and log in with the username **Student** and password **Metadata0**. When asked if you want to opt in to all your assumable groups, select **Yes**.
 Loginppt screenshot
 
+39. Click the Student, Applications icon in the top right corner of the SAS pane and select **Settings**. Uncheck the **Display filter** option and click **Save**.
 
+Settings screenshot
+settings2 screenshot
 
 41.	In the **Home** tab in the SAS pane, select **Favorites > Warranty Analysis**. Expand the SAS pane to enlarge the view of the report.
 
@@ -295,10 +298,16 @@ favwar screenshot
 42.	In the **Cost Overview** page, find the Bar Chart object and select **Object menu**, then click **Insert in document**. Notice that the bar labels are staggered in the graph because there isn't enough space to display them on the same line. Resize the graph to fill the slide, then click **Object menu** and select **Update in document** to regenerate the bar chart in the allocated space.
 
 insertbar screenshot
+costoverview1 screenshot
+costoverview2 screenshot
 
 44.	Create a new slide and change the layout to **Blank**. Insert the **Cost Change from Previous Year by Primary Labor Group** bubble plot. Again, resize the image to fill the slide, then click **Update all objects in document**. You may use all PowerPoint functionality to create beautiful, insightful presentations, with embedded, live results from your SAS reports.
 
+updatebubble screenshot
+
 # Word
+
+
 
 We've toured several of the applications that are supported with SAS for Microsoft 365. To learn more, click Help in the SAS Viya ribbon to access complete documentation.  
 
