@@ -285,14 +285,17 @@ You can also insert report objects into Microsoft Word documents and PowerPoint 
 
 38.	From the SAS Viya tab in the ribbon, select **Home** and log in with the username **Student** and password **Metadata0**. When asked if you want to opt in to all your assumable groups, select **Yes**.
 
+<img width="1914" height="1004" alt="Image" src="https://github.com/user-attachments/assets/6937400f-8380-48da-9673-9111e6470c35" />
 
 <img width="594" height="823" alt="Image" src="https://github.com/user-attachments/assets/1e4d37c0-95c3-4a21-ac55-9f0c2b04be54" />
 
 40. Click the Student, Applications icon in the top right corner of the SAS pane and select **Settings**. Uncheck the **Display filter** option and click **Save**.
 
-<img width="1914" height="1004" alt="Image" src="https://github.com/user-attachments/assets/27882ddb-bc47-420d-ae71-b205afe373c9" />
+<img width="592" height="381" alt="Image" src="https://github.com/user-attachments/assets/f1feb2e7-c58e-4dd6-af88-bde9a85b86d2" />
 
 <img width="592" height="817" alt="Image" src="https://github.com/user-attachments/assets/782370be-c77b-48fb-b288-43f4f504e442" />
+
+<img width="1914" height="1004" alt="Image" src="https://github.com/user-attachments/assets/27882ddb-bc47-420d-ae71-b205afe373c9" />
 
 
 41.	In the **Home** tab in the SAS pane, select **Favorites > Warranty Analysis**. Expand the SAS pane to enlarge the view of the report.
@@ -307,7 +310,6 @@ You can also insert report objects into Microsoft Word documents and PowerPoint 
 
 <img width="1036" height="571" alt="Image" src="https://github.com/user-attachments/assets/ae44ebf3-e6d7-483c-8ebd-77b41fd0e914" />
 
-<img width="592" height="381" alt="Image" src="https://github.com/user-attachments/assets/f1feb2e7-c58e-4dd6-af88-bde9a85b86d2" />
 
 
 44.	Create a new slide and change the layout to **Blank**. Insert the **Cost Change from Previous Year by Primary Labor Group** bubble plot. Again, resize the image to fill the slide, then click **Update all objects in document**. You may use all PowerPoint functionality to create beautiful, insightful presentations, with embedded, live results from your SAS reports.
