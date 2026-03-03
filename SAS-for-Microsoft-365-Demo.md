@@ -270,42 +270,33 @@ Select a cell in column A below the Toyota table in the worksheet and click the 
 
 ------------------------------------------------------------------------
 
-
-
-# PowerPoint
+# Outlook
 
 **NOTE:** Outlook is not configured in the SAS Virtual Lab to complete this portion of the demonstration, so please watch the instructor's screen instead.
 
-**Demo notes for me, not students (take out of HOW instructions on github)**
-30.	Open Outlook to see some of the unique features available when sharing SAS content via email. Create a new email message, then click SAS Home to access the SAS pane.
-
-31.	In the Home tab, change the drop-down list to Favorites and double-click the Warranty Analysis report. You may also select Reports to access any reports in SAS Content.
-
-32.	In the Cost Overview report page, maximize the Bar Chart object. Click   (Object menu) for both the bar chart and the table to select Insert in message. Note that the menu also allows you to attach individual report objects as a PDF.
-
-33.	Select   (More options) in the upper-right corner of the Results tab, then select Attach report as a PDF. There are many choices available to customize the document.
-
-34.	In the Options tab, verify the following options are selected:
-
-o	Show page numbers
-o	Include Table of Contents
-o	Include cover page
-
-35.	In the Select Objects tab, clear the check boxes for Detailed Cost Analysis and Labor Group Analysis and Forecast. Click OK. Open the attached PDF to view the result.  
-
-36.	Finally, you can add a link to the live report in SAS Visual Analytics. In the email message, type Link to full report:. Then click   (Insert report link in message). Additional text or information can be added before sending the email message.
 
 ## PowerPoint and Word: Insert Report Content
 
-You can also insert report objects into Microsoft Word documents and PowerPoint slides. The features in both applications are similar, so we will demonstrate in PowerPoint. **Show word as well, take from course, time everything
-**
+You can also insert report objects into Microsoft Word documents and PowerPoint slides. 
+
 37.	Open PowerPoint and create a new blank slide deck. Right-click the title slide and select **Layout > Title Only**. Type _Cost Overview_ in the Title box.
 
-38.	From the SAS Viya tab in the ribbon, select **Home** and log in. In the **Home** tab in the SAS pane, select **Favorites > Warranty Analysis**. Expand the SAS pane to enlarge the view of the report.
+titleonly screenshot
 
-39.	In the **Cost Overvie**w page, find the Bar Chart object and select **Object menu**, then click Insert in **document**. Notice that the bar labels are staggered in the graph because there isn't enough space to display them on the same line. Resize the graph to fill the slide, then click **Object menu** and select **Update in document** to regenerate the bar chart in the allocated space.
+38.	From the SAS Viya tab in the ribbon, select **Home** and log in with the username **Student** and password **Metadata0**. When asked if you want to opt in to all your assumable groups, select **Yes**.
+Loginppt screenshot
 
-40.	Create a new slide and change the layout to **Blank**. Insert the **Cost Change from Previous Year by Primary Labor Group** bubble plot. Again, resize the image to fill the slide, then click **Update all objects in document**. You may use all PowerPoint functionality to create beautiful, insightful presentations, with embedded, live results from your SAS reports.
+
+
+41.	In the **Home** tab in the SAS pane, select **Favorites > Warranty Analysis**. Expand the SAS pane to enlarge the view of the report.
+
+favwar screenshot
+
+42.	In the **Cost Overview** page, find the Bar Chart object and select **Object menu**, then click **Insert in document**. Notice that the bar labels are staggered in the graph because there isn't enough space to display them on the same line. Resize the graph to fill the slide, then click **Object menu** and select **Update in document** to regenerate the bar chart in the allocated space.
+
+insertbar screenshot
+
+44.	Create a new slide and change the layout to **Blank**. Insert the **Cost Change from Previous Year by Primary Labor Group** bubble plot. Again, resize the image to fill the slide, then click **Update all objects in document**. You may use all PowerPoint functionality to create beautiful, insightful presentations, with embedded, live results from your SAS reports.
 
 # Word
 
