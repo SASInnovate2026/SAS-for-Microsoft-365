@@ -246,10 +246,11 @@ run;
 
 43. From the **Reports** tab of the SAS pane navigate to **SAS Content** > **Users** > **student** > **My Folder** and open the **Cars Selection Innovate26** SAS Viya job.
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/80accd39-d925-480b-866d-1b7040cc3a37" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/f1d822c1-dbc6-4786-b4e7-56441f590a4a" />
 
 44. From the **Prompts** tab, select **Toyota** as the vehicle make.  Click **Run** to execute the job. Notice the job creates a table of metrics for various Toyota vehicles.
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/3a5e9c8b-4bd2-4682-98a5-ae334b9fe6e0" />
+
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/143372d9-b42a-4020-a0d0-6cb84209401d" />
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/19008d61-3dbb-420e-a1ce-e0ff4505c98f" />
 
