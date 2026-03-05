@@ -293,7 +293,7 @@ Select a cell in column A below the Toyota table in the worksheet and click the 
 Outlook is not configured in the SAS Virtual Lab to complete this portion of the demonstration, so please watch the instructor's screen instead.
 
 
-## Insert Report Content into PowerPoint and Word
+## PowerPoint and Word
 
 You can also insert report objects into Microsoft Word documents and PowerPoint slides. The features in both applications are similar, so we will demonstrate in PowerPoint.
 
