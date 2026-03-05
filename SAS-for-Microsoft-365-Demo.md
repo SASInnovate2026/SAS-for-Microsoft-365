@@ -19,7 +19,7 @@ PowerPoint, and Outlook.
 
 [Part 5: Insert SAS Program Results into Excel](#part5)
 
-[Part 6: Insert SAS Viya Jobs Results into Excel](#part6)
+[Part 6: Insert SAS Viya Job Results into Excel](#part6)
 
 [Part 7: Insert Report Content into Outlook, PowerPoint, and Word](#part7)
 
@@ -29,10 +29,10 @@ PowerPoint, and Outlook.
 <a id="part1"></a>
 # Part 1: Examine the Warranty Analysis Report in SAS Visual Analytics
 
-1.  Open Google Chrome and click **SASLanding** from the bookmarks bar.
+1. Open Google Chrome and click **SASLanding** from the bookmarks bar.
 <img width="765" height="122" alt="Image" src="https://github.com/user-attachments/assets/f08d069a-1310-4759-a9e4-de4fce217c64" />
 
-2.  The login page should be pre-populated. If not, use the following credentials to log in:
+2. The login page should be pre-populated. If not, use the following credentials to log in:
 
     **Username:** student
     
@@ -42,22 +42,19 @@ PowerPoint, and Outlook.
 3. Click **Sign in**. If asked to opt in to all your assumable groups, select **Yes**.
 <img width="420" height="380" alt="Image" src="https://github.com/user-attachments/assets/0e9a2996-3d78-425b-99b7-f4da270c81fa" />
 
-4.  Open **SAS Visual Analytics** from the Applications menu by
-    selecting **Explore and Visualize**.
+4. Open **SAS Visual Analytics** from the Applications menu by selecting **Explore and Visualize**.
 
 <img height="400" alt="Image" src="https://github.com/user-attachments/assets/fc77248e-361a-4904-b4c4-7e1868357fd3" />
 
 <img height="600" alt="Image" src="https://github.com/user-attachments/assets/61db7fe1-eec0-45d9-9a3d-0328fcc02a31" />
 
-5.  Navigate to:
-
-    **SAS Content** \> **Products** \> **SAS Visual Analytics** \> **Samples**
+5. Navigate to **SAS Content** \> **Products** \> **SAS Visual Analytics** \> **Samples**
 <img width="1559" height="397" alt="Image" src="https://github.com/user-attachments/assets/a587f280-0e70-4dbb-8fbb-0cd19d164710" />
 
-6.  Double-click **Warranty Analysis** to open the report. This report has multiple pages and report objects that can be viewed and shared in Microsoft applications.
+6. Double-click **Warranty Analysis** to open the report. This report has multiple pages and report objects that can be viewed and shared in Microsoft applications.
 <img width="1917" height="946" alt="Image" src="https://github.com/user-attachments/assets/adf1b460-7433-49b8-87b7-edee8e4f7f81" />
 
-7.  Select **Opened Reports** in the upper-right corner, then click **Close all reports**.
+7. Select **Opened Reports** in the upper-right corner, then click **Close all reports**.
 <img width="396" height="225" alt="Image" src="https://github.com/user-attachments/assets/103c04f5-45a2-46c9-b103-ebcf27c43a10" />
 
 8.  Right-click **Warranty Analysis** and select **Add to Favorites**.
@@ -75,7 +72,6 @@ PowerPoint, and Outlook.
 
 <img width="1922" height="1032" alt="Image" src="https://github.com/user-attachments/assets/34159138-15d2-4c92-8679-def1c816f28d" />
 
-
 12.	On the **Home** tab, select **Favorites** from the drop-down list. You can quickly access open, recent, and favorite SAS reports and data.
 
 13.	Click **More options** to view additional actions, such as the ability to upload data to SAS Viya. (Think more on this section, maybe point out list view, upload data here then later do an example changing preferences.)
@@ -89,10 +85,8 @@ PowerPoint, and Outlook.
 14.	From the SAS pane, select the **Reports** tab. Expand **My Favorites** and double-click the **Warranty Analysis** report.
  <img height = "550" alt="Image" src="https://github.com/user-attachments/assets/be671d6e-22e0-4e68-9ecf-fa95987b7f55" />
  
-
 15.	Drag the left border of the SAS pane to enlarge the report preview. In the **Results** tab, you can view the different report pages and interact with the report objects, just like in Visual Analytics.  For example, verify the **Cost Overview** report page is active. Click **2016** to filter the data and update the report objects.
 <img height = "550" alt="Image" src="https://github.com/user-attachments/assets/2436095a-33fd-45c0-9c6c-e417603d73d1" />
-
 
 16.	Hover over the bar chart and click **Maximize**. Alternatively, you can right-click the chart and select **Maximize view**.
 <img height = "200" alt="Image" src="https://github.com/user-attachments/assets/d460a177-dbfb-4773-98f0-dbb1c2cf6f39" />
@@ -101,7 +95,6 @@ PowerPoint, and Outlook.
 <img height = "550" alt="Image" src="https://github.com/user-attachments/assets/e800fc35-4e56-4087-bf77-0ffb4e879f9a" />
 
 <img width="1920" height="808" alt="Image" src="https://github.com/user-attachments/assets/90eb162a-643c-4795-8940-e0418c4009f8" />
-
 
 18.	Select the graph image in the worksheet. From the SAS Viya tab in the ribbon, click **Selected Object** to update the object, remove it from the document, find it in the SAS pane, or unlink it from SAS.
 <img  height = "550" alt="Image" src="https://github.com/user-attachments/assets/9dc79177-7481-42f2-bf3c-1c1209901aa1" />
@@ -149,6 +142,7 @@ PowerPoint, and Outlook.
 ------------------------------------------------------------------------
 <a id="part4"></a>
 # Part 4: Insert Data into Excel
+
 27.	Next, select the **Data** tab in the SAS pane. You can view tables defined in your SAS Viya environment and insert data into Excel for local exploration and processing. Select **All tables > SAS Studio compute context server**, then select the **SASHELP** library and the **HOMEEQUITY** table.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/5b90167c-0625-44c8-9476-755f6858ce58" />
@@ -171,15 +165,15 @@ PowerPoint, and Outlook.
 
 <img width="620" height="516" alt="Image" src="https://github.com/user-attachments/assets/fd541567-8fba-4e3e-b48d-00cafb84fdd3" />
 
-4.	From the **Sort** tab, click **Add sort** and change the column to **LOAN**.
+32. From the **Sort** tab, click **Add sort** and change the column to **LOAN**.
 
 <img width="607" height="162" alt="Image" src="https://github.com/user-attachments/assets/dafc432b-739c-4bf0-a850-2c129436cd05" />
 
-20.	Create a new worksheet in the Excel file and rename it **HOMEEQUITY Data**. Click the first cell in the upper left corner, then in the SAS pane click **Insert table in document.** The selected data is added to the spreadsheet. You can take advantage of Excel functionality to enhance the view with filtering, sorting, and formatting.  (Encourage people to play with Excel features??)
+33. Create a new worksheet in the Excel file and rename it **HOMEEQUITY Data**. Click the first cell in the upper left corner, then in the SAS pane click **Insert table in document.** The selected data is added to the spreadsheet. You can take advantage of Excel functionality to enhance the view with filtering, sorting, and formatting.  (Encourage people to play with Excel features??)
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/8b0a83f6-d267-4d56-86bd-006ab17ca87c" />
 
-21.	Not only can you view SAS data in Excel, but there is also an option in the SAS Viya tab in the ribbon to upload data. This provides the opportunity to prepare data in Excel, then load it to SAS Viya for further analysis in applications like SAS Studio, Visual Analytics, or Model Studio. **do this if time**
+34. Not only can you view SAS data in Excel, but there is also an option in the SAS Viya tab in the ribbon to upload data. This provides the opportunity to prepare data in Excel, then load it to SAS Viya for further analysis in applications like SAS Studio, Visual Analytics, or Model Studio. **do this if time**
 
 <img width="613" height="143" alt="Image" src="https://github.com/user-attachments/assets/5fc73447-f4ca-46ce-b8f7-5cfb3bfe1544" />
 
@@ -187,7 +181,7 @@ PowerPoint, and Outlook.
 <a id="part5"></a>
 # Part 5: Insert SAS Program Results into Excel
 
-22.	Examine the **HOMEEQUITY** data more closely. Notice the column **City** is in lower case. This can be resolved temporarily in Excel, or you can use SAS code to create a new table with the proper case values. Select **Programs** and enter the following program in the **Code** tab. Notice as you type, autocomplete prompts provide suggestions for valid keywords and tables.
+35. Examine the **HOMEEQUITY** data more closely. Notice the column **City** is in lower case. This can be resolved temporarily in Excel, or you can use SAS code to create a new table with the proper case values. Select **Programs** and enter the following program in the **Code** tab. Notice as you type, autocomplete prompts provide suggestions for valid keywords and tables.
 
 ``` sas
 data work.homeequity_update;
@@ -198,7 +192,7 @@ run;
 
 This DATA step will capitalize the first letter of each word in **City**.
 
-24.	Additional SAS syntax may be used to summarize or analyze data. Add the following PROC FREQ step to generate frequency counts for the HOMEEQUITY_UPDATE table.
+36. Additional SAS syntax may be used to summarize or analyze data. Add the following PROC FREQ step to generate frequency counts for the HOMEEQUITY_UPDATE table.
 
 ``` sas
 proc freq data=work.homeequity_update  order=freq;
@@ -206,13 +200,13 @@ proc freq data=work.homeequity_update  order=freq;
 run;
 ```
 
-25.	Click **Run**. The **Results** tab includes the frequency report. Create a new worksheet and select the upper left cell. Click **Insert in document** to add the results.
+37. Click **Run**. The **Results** tab includes the frequency report. Create a new worksheet and select the upper left cell. Click **Insert in document** to add the results.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/24417db0-7f48-44f4-b537-511f7d79a320" /> <br>
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/d33140bb-05a1-4b2c-bb46-73545cd417e7" />
 
-27.	What if the program is modified? Return to the **Code** tab and add a **TITLE** statement above the PROC FREQ step to provide a custom title and an **ODS NOPROCTITLE** statement to hide the procedure name. Click **Run**.
+38. What if the program is modified? Return to the **Code** tab and add a **TITLE** statement above the PROC FREQ step to provide a custom title and an **ODS NOPROCTITLE** statement to hide the procedure name. Click **Run**.
 
 ``` sas
 	title "Number of Loans by State"; 
@@ -220,19 +214,19 @@ run;
 ```
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/e9bcf691-f841-4e00-bdf9-cceb5c838914" />
 
-32.	In the SAS panel, click **Update in document** to refresh the results in the worksheet.
+39. In the SAS panel, click **Update in document** to refresh the results in the worksheet.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/a48fce1d-ea01-4b6a-97dc-b770e68be0de" /> <br>
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/530b3860-62c1-44a1-9434-53e908fa4446" />
 
-33.	Click **Output Data** to view the new table created by the program. Scroll to the right to confirm the **City** column is in proper case. Click **Open** to access the **Results** tab. Here you have the option to filter and sort the data and insert the results into the Excel workbook.
+40. Click **Output Data** to view the new table created by the program. Scroll to the right to confirm the **City** column is in proper case. Click **Open** to access the **Results** tab. Here you have the option to filter and sort the data and insert the results into the Excel workbook.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/7aebead9-9eed-4561-9d44-d19cc6ae31e9" /> <br>
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/a1957b32-75bb-4b25-8b2b-256b383b5780" />
 
-35.	Return to the **Programs** tab. There is a note indicating that the program is embedded in the document. This means that if the Excel workbook is saved, closed, and reopened, it will contain active links to your SAS content, as well as any embedded SAS programs. To save the program outside of the Excel file so that it is accessible in other applications or to your colleagues, click **More options** and select **Save**. You can name the file and choose a storage location in SAS Content. Click **Cancel**.
+41. Return to the **Programs** tab. There is a note indicating that the program is embedded in the document. This means that if the Excel workbook is saved, closed, and reopened, it will contain active links to your SAS content, as well as any embedded SAS programs. To save the program outside of the Excel file so that it is accessible in other applications or to your colleagues, click **More options** and select **Save**. You can name the file and choose a storage location in SAS Content. Click **Cancel**.
 
 <img width="671" height="227" alt="Image" src="https://github.com/user-attachments/assets/d06d43b5-7e3f-4231-9614-95f98580eb7e" /> <br>
 
@@ -240,43 +234,40 @@ run;
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/503ec9db-57d8-4a97-a0ef-cd1b3d745256" />
 
-36.	Click **More options** and notice there is also the ability to open a program, allowing you to access and execute code from an external file.
+42. Click **More options** and notice there is also the ability to open a program, allowing you to access and execute code from an external file.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/07c235f5-fbaf-4ce3-bc49-b9003a65160d" />
 
-Show inserting SAS Viya job objects, text adam and lynne about file for cars selection
-
 ------------------------------------------------------------------------
 <a id="part6"></a>
-# Part 6: Insert SAS Viya Jobs Results into Excel
+# Part 6: Insert SAS Viya Job Results into Excel
 
-From the **Reports** tab of the SAS pane navigate to **SAS Content** > **Users** > **student** > **My Folder** and open the **Cars Selection Innovate26** SAS Viya job.
+43. From the **Reports** tab of the SAS pane navigate to **SAS Content** > **Users** > **student** > **My Folder** and open the **Cars Selection Innovate26** SAS Viya job.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/80accd39-d925-480b-866d-1b7040cc3a37" />
 
-From the **Prompts** tab, select **Toyota** as the vehicle make.  Click **Run** to execute the job. Notice the job creates a table of metrics for various Toyota vehicles.
+44. From the **Prompts** tab, select **Toyota** as the vehicle make.  Click **Run** to execute the job. Notice the job creates a table of metrics for various Toyota vehicles.
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/3a5e9c8b-4bd2-4682-98a5-ae334b9fe6e0" />
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/c0cbd4ba-937f-41d6-9d9c-21e1b733d44a" />
 
-Create a new worksheet in the workbook. Click the top left cell of the worksheet and insert the results by clicking the **Insert in document** icon.  
+45. Create a new worksheet in the workbook. Click the top left cell of the worksheet and insert the results by clicking the **Insert in document** icon.  
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/bf51c213-dfb3-459e-bfa4-9b2e130e2060" />
 
-Navigate to the **Home** tab of the SAS pane and select **Recent** from the dropdown menu. Double-click the **Cars Selection** SAS Viya job to open another instance of the job.  
+46. Navigate to the **Home** tab of the SAS pane and select **Recent** from the dropdown menu. Double-click the **Cars Selection** SAS Viya job to open another instance of the job.  
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/955ebd4e-9b05-4c6e-aa9f-72b134fd86df" />
 
-Notice the job opens in the **Results** tab with the number (1) next to it.  
+47. Notice the job opens in the **Results** tab with the number (1) next to it.  
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/124a0a5d-9180-4bd3-8410-100f3a1c64a4" />
 
-
-From the **Prompts** tab, select **Lexus** from the dropdown menu and run the job. 
+48. From the **Prompts** tab, select **Lexus** from the dropdown menu and run the job. 
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/34be381e-49ed-4325-9366-6386bea56518" />
 
-Select a cell in column A below the Toyota table in the worksheet and click the **Insert in document** icon in the SAS pane.  
+49. Select a cell in column A below the Toyota table in the worksheet and click the **Insert in document** icon in the SAS pane.  
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/ed7230ea-56c8-4445-bc83-a8f9a52537e7" />
 
@@ -292,24 +283,24 @@ Outlook is not configured in the SAS Virtual Lab to complete this portion of the
 
 You can also insert report objects into Microsoft Word documents and PowerPoint slides. The features in both applications are similar, so we will demonstrate in PowerPoint.
 
-37.	Open PowerPoint and create a new blank slide deck. Right-click the title slide and select **Layout > Title Only**. Type _Cost Overview_ in the Title box.
+50. Open PowerPoint and create a new blank slide deck. Right-click the title slide and select **Layout > Title Only**. Type _Cost Overview_ in the Title box.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/cdb0181f-0052-48a9-b2d2-64b8b9eb6252" />
 
-38.	From the SAS Viya tab in the ribbon, select **Home** and log in with the username **Student** and password **Metadata0**. When asked if you want to opt in to all your assumable groups, select **Yes**.
+51. From the SAS Viya tab in the ribbon, select **Home** and log in with the username **Student** and password **Metadata0**. When asked if you want to opt in to all your assumable groups, select **Yes**.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/6937400f-8380-48da-9673-9111e6470c35" />
 
-40. Click the **Student, Applications** icon in the top right corner of the SAS pane and select **Settings**. Uncheck the **Display filter** option and click **Save**.
+52. Click the **Student, Applications** icon in the top right corner of the SAS pane and select **Settings**. Uncheck the **Display filter** option and click **Save**.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/f1feb2e7-c58e-4dd6-af88-bde9a85b86d2" />
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/1ac9c695-293c-4fb2-b583-42bbb1a7e0d8" />
 
-41.	In the **Home** tab in the SAS pane, select **Favorites > Warranty Analysis**. Expand the SAS pane to enlarge the view of the report.
+53. In the **Home** tab in the SAS pane, select **Favorites > Warranty Analysis**. Expand the SAS pane to enlarge the view of the report.
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/1e4d37c0-95c3-4a21-ac55-9f0c2b04be54" />
 
-42.	In the **Cost Overview** page, find the Bar Chart object and select **Object menu**, then click **Insert in document**. Notice that the bar labels are staggered in the graph because there isn't enough space to display them on the same line. Resize the graph to fill the slide, then click **Object menu** and select **Update in document** to regenerate the bar chart in the allocated space.
+54. In the **Cost Overview** page, find the Bar Chart object and select **Object menu**, then click **Insert in document**. Notice that the bar labels are staggered in the graph because there isn't enough space to display them on the same line. Resize the graph to fill the slide, then click **Object menu** and select **Update in document** to regenerate the bar chart in the allocated space.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/782370be-c77b-48fb-b288-43f4f504e442" />
 
@@ -317,8 +308,6 @@ You can also insert report objects into Microsoft Word documents and PowerPoint 
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/ae44ebf3-e6d7-483c-8ebd-77b41fd0e914" />
 
-
-
-44.	Create a new slide and change the layout to **Blank**. Insert the **Cost Change from Previous Year by Primary Labor Group** bubble plot. Again, resize the image to fill the slide, then click **Update all objects in document**. You may use all PowerPoint functionality to create beautiful, insightful presentations, with embedded, live results from your SAS reports.
+55. Create a new slide and change the layout to **Blank**. Insert the **Cost Change from Previous Year by Primary Labor Group** bubble plot. Again, resize the image to fill the slide, then click **Update all objects in document**. You may use all PowerPoint functionality to create beautiful, insightful presentations, with embedded, live results from your SAS reports.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/87a3c92f-db61-497b-a69b-84e4ea172cdf" />
