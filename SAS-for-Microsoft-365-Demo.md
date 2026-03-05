@@ -9,7 +9,13 @@ PowerPoint, and Outlook.
 ------------------------------------------------------------------------
 
 # Table of Contents
-- [Part 1: Examine the Warranty Analysis Report in SAS Visual Analytics](#part1)
+[Part 1: Examine the Warranty Analysis Report in SAS Visual Analytics](#part1)
+[Part 2: Access the SAS Panel in Excel](#part2)
+[Part 3: Insert Report Content into Excel](#part3)
+[Part 4: Insert Data into Excel](#part4)
+[Part 5: Insert SAS Program Results into Excel](#part5)
+[Part 6: Insert SAS Viya Jobs Results into Excel](#part6)
+[Part 7: Insert Report Content into Outlook, PowerPoint, and Word](#part7)
 
 # Notes for me
 
@@ -58,6 +64,7 @@ PowerPoint, and Outlook.
 8.  Right-click **Warranty Analysis** and select **Add to Favorites**.
 <img width="1555" height="669" alt="Image" src="https://github.com/user-attachments/assets/f6001f40-1789-41ef-9d08-df61b5068f61" />
 
+<a id="part2"></a>
 # Part 2: Access the SAS Panel in Excel
 
 9. Close out of Google Chrome, open the Microsoft Excel desktop application, and create a new workbook. Maximize the workbook so it fills the screen. **Note:** In this demonstration we use the Microsoft desktop applications, however SAS for Microsoft 365 works with the web applications as well.
@@ -75,7 +82,8 @@ PowerPoint, and Outlook.
 
 <img width="730" height="410" alt="Image" src="https://github.com/user-attachments/assets/98e45e35-1e2b-48d6-bc46-cd551cff1cc6" />
 
-# Part 3: Inserting Report Content
+<a id="part3"></a>
+# Part 3: Insert Report Content into Excel
 
 14.	From the SAS pane, select the **Reports** tab. Expand **My Favorites** and double-click the **Warranty Analysis** report.
  <img height = "550" alt="Image" src="https://github.com/user-attachments/assets/be671d6e-22e0-4e68-9ecf-fa95987b7f55" />
@@ -138,8 +146,8 @@ PowerPoint, and Outlook.
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/a8bd6c69-2585-4d89-beba-2e3eb69317a0" />
 
 ------------------------------------------------------------------------
-
-# Excel: Insert Data
+<a id="part4"></a>
+# Part 4: Insert Data into Excel
 27.	Next, select the **Data** tab in the SAS pane. You can view tables defined in your SAS Viya environment and insert data into Excel for local exploration and processing. Select **All tables > SAS Studio compute context server**, then select the **SASHELP** library and the **HOMEEQUITY** table.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/5b90167c-0625-44c8-9476-755f6858ce58" />
@@ -176,7 +184,8 @@ PowerPoint, and Outlook.
 
 ------------------------------------------------------------------------
 
-# Excel: Insert Program Results
+<a id="part5"></a>
+# Part 5: Insert SAS Program Results into Excel
 
 22.	Examine the **HOMEEQUITY** data more closely. Notice the column **City** is in lower case. This can be resolved temporarily in Excel, or you can use SAS code to create a new table with the proper case values. Select **Programs** and enter the following program in the **Code** tab. Notice as you type, autocomplete prompts provide suggestions for valid keywords and tables.
 
@@ -237,7 +246,8 @@ run;
 
 Show inserting SAS Viya job objects, text adam and lynne about file for cars selection
 
-# Excel: Inserting SAS Viya Jobs Results
+<a id="part6"></a>
+# Part 6: Insert SAS Viya Jobs Results into Excel
 
 From the **Reports** tab of the SAS pane navigate to **SAS Content** > **Users** > **student** > **My Folder** and open the **Cars Selection Innovate26** SAS Viya job.
 
@@ -270,13 +280,14 @@ Select a cell in column A below the Toyota table in the worksheet and click the 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/ed7230ea-56c8-4445-bc83-a8f9a52537e7" />
 
 ------------------------------------------------------------------------
-
-# Outlook
+<a id="part7"></a>
+# Part 7: Insert Report Content into Outlook, PowerPoint, and Word
+## Outlook
 
 Outlook is not configured in the SAS Virtual Lab to complete this portion of the demonstration, so please watch the instructor's screen instead.
 
 
-# PowerPoint and Word: Insert Report Content
+## Insert Report Content into PowerPoint and Word
 
 You can also insert report objects into Microsoft Word documents and PowerPoint slides. The features in both applications are similar, so we will demonstrate in PowerPoint.
 
@@ -310,8 +321,3 @@ You can also insert report objects into Microsoft Word documents and PowerPoint 
 44.	Create a new slide and change the layout to **Blank**. Insert the **Cost Change from Previous Year by Primary Labor Group** bubble plot. Again, resize the image to fill the slide, then click **Update all objects in document**. You may use all PowerPoint functionality to create beautiful, insightful presentations, with embedded, live results from your SAS reports.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/87a3c92f-db61-497b-a69b-84e4ea172cdf" />
-
-# Word
-
-We've toured several of the applications that are supported with SAS for Microsoft 365. To learn more, click Help in the SAS Viya ribbon to access complete documentation.  
-
