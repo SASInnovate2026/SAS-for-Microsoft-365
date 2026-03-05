@@ -68,13 +68,13 @@ PowerPoint, and Outlook.
 
 10. Select **SAS Viya** in the ribbon along the top of the window.
 
-11.	From the SAS Viya tab, select **Home**. A panel opens on the right, prompting you to login to SAS Viya. In the SAS-provided virtual lab, enter **Student** as the User ID and **Metadata0** as the password. If asked to opt in to all your assumable groups, select **Yes**. Once you are connected, the panel provides access to all reports, data, and programs in the SAS Viya environment.
+11.	From the SAS Viya tab, select **Home**. A panel opens on the right, prompting you to login to SAS Viya. In the SAS-provided virtual lab, enter **student** as the User ID and **Metadata0** as the password. If asked to opt in to all your assumable groups, select **Yes**. Once you are connected, the panel provides access to all reports, data, and programs in the SAS Viya environment.
 
 <img width="1922" height="1032" alt="Image" src="https://github.com/user-attachments/assets/34159138-15d2-4c92-8679-def1c816f28d" />
 
-12.	On the **Home** tab, select **Favorites** from the drop-down list. You can quickly access open, recent, and favorite SAS reports and data.
+12.	On the **Home** tab of the SAS Viya pane, select **Favorites** from the drop-down list. You can quickly access open, recent, and favorite SAS reports and data.
 
-13.	Click **More options** to view additional actions, such as the ability to upload data to SAS Viya. (Think more on this section, maybe point out list view, upload data here then later do an example changing preferences.)
+13.	You can sort the list of files, toggle between tile view and list view, and the **More options** icon shows additional actions, such as the ability to upload data to SAS Viya. The **Student, Applications** icon in the top right leads to other actions such as opening SAS Viya and changing settings.
 
 <img width="730" height="410" alt="Image" src="https://github.com/user-attachments/assets/98e45e35-1e2b-48d6-bc46-cd551cff1cc6" />
 
