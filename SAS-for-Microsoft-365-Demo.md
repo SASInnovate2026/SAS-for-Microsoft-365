@@ -9,7 +9,7 @@ PowerPoint, and Outlook.
 ------------------------------------------------------------------------
 
 # Table of Contents
-Add links to sections here
+- [Part 1: Examine the Warranty Analysis Report in SAS Visual Analytics](#part1)
 
 # Notes for me
 
@@ -21,6 +21,7 @@ Add links to sections here
 
 ------------------------------------------------------------------------
 
+<a id="part1"></a>
 # Part 1: Examine the Warranty Analysis Report in SAS Visual Analytics
 
 1.  Open Google Chrome and click **SASLanding** from the bookmarks bar.
