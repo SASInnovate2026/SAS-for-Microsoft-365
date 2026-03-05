@@ -110,8 +110,6 @@ PowerPoint, and Outlook.
 
 21.	The detailed table below the bar chart can also be inserted into Excel. First, select a cell in column A of the worksheet below the graph. This will determine where the next object will be inserted. Then right-click the table in the SAS pane and select **Insert in document**.
 
-<img height = "550"  alt="Image" src="https://github.com/user-attachments/assets/4b260e94-ed66-4341-94a9-163e13d76ac4" />
-
 <img height = "550"  alt="Image" src="https://github.com/user-attachments/assets/fc64e407-ef42-4253-bcbf-3e19178d8414" />
 
 <img height = "550" alt="Image" src="https://github.com/user-attachments/assets/f930e391-587f-4352-8661-fe2a0a298450" />
@@ -145,7 +143,7 @@ PowerPoint, and Outlook.
 <a id="part4"></a>
 # Part 4: Insert Data into Excel
 
-27.	Next, select the **Data** tab in the SAS pane. You can view tables defined in your SAS Viya environment and insert data into Excel for local exploration and processing. Select **All tables > SAS Studio compute context server**, then select the **SASHELP** library and the **HOMEEQUITY** table.
+27.	Next, select the **Data** tab in the SAS pane. You can view tables defined in your SAS Viya environment and insert data into Excel for local exploration and processing. Select **All tables > SAS Studio compute context**, then select the **SASHELP** library and the **HOMEEQUITY** table.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/5b90167c-0625-44c8-9476-755f6858ce58" />
 
@@ -159,7 +157,7 @@ PowerPoint, and Outlook.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/85855e29-215f-4882-9af9-966cfab246ef" />
 
-31.	In the **Filter** tab, you can either build an expression graphically, or code the filter expression from scratch. Click **Graphical builder** and confirm the selected variable is **BAD**. Click **Filter** then type **1** in the Value field. When BAD=1, it indicates the loan defaulted. Note that you can also use the Lookup Value button to select values from the input data. Click **OK**.  
+31.	In the **Filter** tab, you can either build an expression graphically, or code the filter expression from scratch. Click **Graphical builder** and confirm the selected variable is **BAD**. Click **Filter** then type **1** in the Value field. When BAD=1, it indicates the loan defaulted. Note that you can also use the **Lookup Value** button to select values from the input data. Click **OK**.  
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/003bcfef-6d0f-4fc2-8bbd-82d4d0791eed" /> <br>
 
@@ -171,7 +169,8 @@ PowerPoint, and Outlook.
 
 <img width="607" height="162" alt="Image" src="https://github.com/user-attachments/assets/dafc432b-739c-4bf0-a850-2c129436cd05" />
 
-33. Create a new worksheet in the Excel file and rename it **HOMEEQUITY Data**. Click the first cell in the upper left corner, then in the SAS pane click **Insert table in document.** The selected data is added to the spreadsheet. You can take advantage of Excel functionality to enhance the view with filtering, sorting, and formatting.  (Encourage people to play with Excel features??)
+33. Create a new worksheet in the Excel file and rename it **HOMEEQUITY Data**. Click the first cell in the upper left corner, then in the SAS pane click **Insert table in document.** The selected data is added to the spreadsheet. You can take advantage of Excel functionality to enhance the view with filtering, sorting, and formatting.
+
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/8b0a83f6-d267-4d56-86bd-006ab17ca87c" />
 
