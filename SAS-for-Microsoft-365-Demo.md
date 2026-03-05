@@ -23,13 +23,6 @@ PowerPoint, and Outlook.
 
 [Part 7: Insert Report Content into Outlook, PowerPoint, and Word](#part7)
 
-# Notes for me
-
--   Add a slide explaining who has access to SAS for Microsoft 365.
--   Provide installation/loading instructions.
--   Consider including a QR code linking to documentation or workshop
-    resources.
--   Add SVG icons and screenshots where helpful.
 
 ------------------------------------------------------------------------
 
@@ -70,6 +63,7 @@ PowerPoint, and Outlook.
 8.  Right-click **Warranty Analysis** and select **Add to Favorites**.
 <img width="1555" height="669" alt="Image" src="https://github.com/user-attachments/assets/f6001f40-1789-41ef-9d08-df61b5068f61" />
 
+------------------------------------------------------------------------
 <a id="part2"></a>
 # Part 2: Access the SAS Panel in Excel
 
@@ -88,6 +82,7 @@ PowerPoint, and Outlook.
 
 <img width="730" height="410" alt="Image" src="https://github.com/user-attachments/assets/98e45e35-1e2b-48d6-bc46-cd551cff1cc6" />
 
+------------------------------------------------------------------------
 <a id="part3"></a>
 # Part 3: Insert Report Content into Excel
 
@@ -189,7 +184,6 @@ PowerPoint, and Outlook.
 <img width="613" height="143" alt="Image" src="https://github.com/user-attachments/assets/5fc73447-f4ca-46ce-b8f7-5cfb3bfe1544" />
 
 ------------------------------------------------------------------------
-
 <a id="part5"></a>
 # Part 5: Insert SAS Program Results into Excel
 
@@ -252,6 +246,7 @@ run;
 
 Show inserting SAS Viya job objects, text adam and lynne about file for cars selection
 
+------------------------------------------------------------------------
 <a id="part6"></a>
 # Part 6: Insert SAS Viya Jobs Results into Excel
 
