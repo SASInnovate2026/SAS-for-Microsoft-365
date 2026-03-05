@@ -314,4 +314,4 @@ You can also insert report objects into Microsoft Word documents and PowerPoint 
 
 55. Create a new slide and change the layout to **Blank**. Insert the **Cost Change from Previous Year by Primary Labor Group** bubble plot. Again, resize the image to fill the slide, then click **Update all objects in document**. You may use all PowerPoint functionality to create beautiful, insightful presentations, with embedded, live results from your SAS reports.
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/95f9bcad-65af-47b3-8309-057cbe620910" />/>
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/95f9bcad-65af-47b3-8309-057cbe620910" />
