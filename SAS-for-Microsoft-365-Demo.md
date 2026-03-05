@@ -10,11 +10,17 @@ PowerPoint, and Outlook.
 
 # Table of Contents
 [Part 1: Examine the Warranty Analysis Report in SAS Visual Analytics](#part1)
+
 [Part 2: Access the SAS Panel in Excel](#part2)
+
 [Part 3: Insert Report Content into Excel](#part3)
+
 [Part 4: Insert Data into Excel](#part4)
+
 [Part 5: Insert SAS Program Results into Excel](#part5)
+
 [Part 6: Insert SAS Viya Jobs Results into Excel](#part6)
+
 [Part 7: Insert Report Content into Outlook, PowerPoint, and Word](#part7)
 
 # Notes for me
