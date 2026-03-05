@@ -76,7 +76,9 @@ PowerPoint, and Outlook.
 
 13.	You can sort the list of files, toggle between tile view and list view, and the **More options** icon shows additional actions, such as the ability to upload data to SAS Viya. The **Student, Applications** icon in the top right leads to other actions such as opening SAS Viya and changing settings.
 
-<img width="730" height="410" alt="Image" src="https://github.com/user-attachments/assets/98e45e35-1e2b-48d6-bc46-cd551cff1cc6" />
+<img width="711" height="349" alt="Image" src="https://github.com/user-attachments/assets/52402d66-7d69-4396-9597-f563b3946445" />
+
+<img width="712" height="392" alt="Image" src="https://github.com/user-attachments/assets/fa9846bd-6702-49e5-a11b-60903b6a9e1b" />
 
 ------------------------------------------------------------------------
 <a id="part3"></a>
