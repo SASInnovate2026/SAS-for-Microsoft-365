@@ -171,10 +171,11 @@ PowerPoint, and Outlook.
 
 33. Create a new worksheet in the Excel file and rename it **HOMEEQUITY Data**. Click the first cell in the upper left corner, then in the SAS pane click **Insert table in document.** The selected data is added to the spreadsheet. You can take advantage of Excel functionality to enhance the view with filtering, sorting, and formatting.
 
+<img width="703" height="396" alt="Image" src="https://github.com/user-attachments/assets/a845e22a-6326-418a-adaf-f302ab233298" />
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/8b0a83f6-d267-4d56-86bd-006ab17ca87c" />
 
-34. Not only can you view SAS data in Excel, but there is also an option in the SAS Viya tab in the ribbon to upload data. This provides the opportunity to prepare data in Excel, then load it to SAS Viya for further analysis in applications like SAS Studio, Visual Analytics, or Model Studio. **do this if time**
+34. Not only can you view SAS data in Excel, but there is also an option in the SAS Viya tab in the ribbon to upload data. This provides the opportunity to prepare data in Excel, then load it to SAS Viya for further analysis in applications like SAS Studio, Visual Analytics, or Model Studio.
 
 <img width="613" height="143" alt="Image" src="https://github.com/user-attachments/assets/5fc73447-f4ca-46ce-b8f7-5cfb3bfe1544" />
 
@@ -215,7 +216,7 @@ run;
 ```
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/e9bcf691-f841-4e00-bdf9-cceb5c838914" />
 
-39. In the SAS panel, click **Update in document** to refresh the results in the worksheet.
+39. In the SAS pane, click **Update in document** to refresh the results in the worksheet.
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/a48fce1d-ea01-4b6a-97dc-b770e68be0de" /> <br>
 
@@ -256,7 +257,7 @@ run;
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/bf51c213-dfb3-459e-bfa4-9b2e130e2060" />
 
-46. Navigate to the **Home** tab of the SAS pane and select **Recent** from the dropdown menu. Double-click the **Cars Selection** SAS Viya job to open another instance of the job.  
+46. Navigate to the **Home** tab of the SAS pane and select **Recent** from the dropdown menu. Double-click the **Cars Selection Innovate26** SAS Viya job to open another instance of the job.  
 
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/955ebd4e-9b05-4c6e-aa9f-72b134fd86df" />
 
