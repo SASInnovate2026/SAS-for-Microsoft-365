@@ -251,27 +251,27 @@ run;
 44. From the **Prompts** tab, select **Toyota** as the vehicle make.  Click **Run** to execute the job. Notice the job creates a table of metrics for various Toyota vehicles.
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/3a5e9c8b-4bd2-4682-98a5-ae334b9fe6e0" />
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/c0cbd4ba-937f-41d6-9d9c-21e1b733d44a" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/19008d61-3dbb-420e-a1ce-e0ff4505c98f" />
 
 45. Create a new worksheet in the workbook. Click the top left cell of the worksheet and insert the results by clicking the **Insert in document** icon.  
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/bf51c213-dfb3-459e-bfa4-9b2e130e2060" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/b12cf224-624a-49c1-ba4c-f62bff1a8b3c" />
 
 46. Navigate to the **Home** tab of the SAS pane and select **Recent** from the dropdown menu. Double-click the **Cars Selection Innovate26** SAS Viya job to open another instance of the job.  
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/955ebd4e-9b05-4c6e-aa9f-72b134fd86df" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/20a8f749-73cb-435e-8c7b-c2da1bcea0d0" />
 
 47. Notice the job opens in the **Results** tab with the number (1) next to it.  
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/124a0a5d-9180-4bd3-8410-100f3a1c64a4" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/e519736b-0811-48d0-ad0f-62c9ec5c52ff" />
 
 48. From the **Prompts** tab, select **Lexus** from the dropdown menu and run the job. 
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/34be381e-49ed-4325-9366-6386bea56518" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/e21fa157-3651-42f4-b785-03b12d2d23b3" />
 
 49. Select a cell in column A below the Toyota table in the worksheet and click the **Insert in document** icon in the SAS pane.  
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/ed7230ea-56c8-4445-bc83-a8f9a52537e7" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/6852700f-8117-461a-aa34-dfb189f8e6b4" />
 
 ------------------------------------------------------------------------
 <a id="part7"></a>
