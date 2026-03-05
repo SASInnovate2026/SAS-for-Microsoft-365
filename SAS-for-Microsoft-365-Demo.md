@@ -288,29 +288,30 @@ You can also insert report objects into Microsoft Word documents and PowerPoint 
 
 50. Open PowerPoint and create a new blank slide deck. Right-click the title slide and select **Layout > Title Only**. Type _Cost Overview_ in the Title box.
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/cdb0181f-0052-48a9-b2d2-64b8b9eb6252" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/70384478-0f60-4a73-8cb4-86b5dc9154b6" />
 
 51. From the SAS Viya tab in the ribbon, select **Home** and log in with the username **Student** and password **Metadata0**. When asked if you want to opt in to all your assumable groups, select **Yes**.
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/6937400f-8380-48da-9673-9111e6470c35" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/f6c59b0e-0b9a-4dbd-8cb1-301e0748e5f5" />
 
 52. Click the **Student, Applications** icon in the top right corner of the SAS pane and select **Settings**. Uncheck the **Display filter** option and click **Save**.
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/f1feb2e7-c58e-4dd6-af88-bde9a85b86d2" />
+<img height="550"  alt="Image" src="https://github.com/user-attachments/assets/20c9d7fe-4d3a-4ded-8277-8bdcc1dd159e" />
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/1ac9c695-293c-4fb2-b583-42bbb1a7e0d8" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/40c3c924-b97d-4053-a866-2a35c8aaf1ea" />
 
 53. In the **Home** tab in the SAS pane, select **Favorites > Warranty Analysis**. Expand the SAS pane to enlarge the view of the report.
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/1e4d37c0-95c3-4a21-ac55-9f0c2b04be54" />
+
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/87b13fba-ff06-49f0-810d-e9372c87e75c" />
 
 54. In the **Cost Overview** page, find the Bar Chart object and select **Object menu**, then click **Insert in document**. Notice that the bar labels are staggered in the graph because there isn't enough space to display them on the same line. Resize the graph to fill the slide, then click **Object menu** and select **Update in document** to regenerate the bar chart in the allocated space.
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/782370be-c77b-48fb-b288-43f4f504e442" />
+<img height="550"  alt="Image" src="https://github.com/user-attachments/assets/dce97b6f-9022-4689-8cea-03036fd2eb15" />
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/f925adff-e6df-4a92-8d61-8510f48f8f32" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/6ff55f73-d08f-4b35-bf00-09f0adf0e154" />
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/ae44ebf3-e6d7-483c-8ebd-77b41fd0e914" />
+<img height="550"  alt="Image" src="https://github.com/user-attachments/assets/10fb6d6b-532e-4b81-8117-b5f87f80b6de" />
 
 55. Create a new slide and change the layout to **Blank**. Insert the **Cost Change from Previous Year by Primary Labor Group** bubble plot. Again, resize the image to fill the slide, then click **Update all objects in document**. You may use all PowerPoint functionality to create beautiful, insightful presentations, with embedded, live results from your SAS reports.
 
-<img height="550" alt="Image" src="https://github.com/user-attachments/assets/87a3c92f-db61-497b-a69b-84e4ea172cdf" />
+<img height="550" alt="Image" src="https://github.com/user-attachments/assets/95f9bcad-65af-47b3-8309-057cbe620910" />/>
