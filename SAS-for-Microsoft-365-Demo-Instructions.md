@@ -104,7 +104,7 @@ PowerPoint, and Outlook.
 19.	Resize the graph to make it wider, then click **Selected Object > Update** or **Update All** from the SAS Viya tab to update the image based on the new dimensions. Notice the x axis tick labels no longer overlap.
 <img  height = "550" alt="Image" src="https://github.com/user-attachments/assets/9764ca81-73d2-462a-94f6-0cfb596a8b32" />
 
-20.	In the report preview in the SAS pane, select **2015** in the button bar. Select the **Update in document** icon or right-click the graph and click **Update in document** to refresh the graph based on a different subset of the data.
+20.	In the report preview in the SAS pane, select **2015** in the button bar. Select the **Update all objects in document** icon or right-click the graph and click **Update in document** to refresh the graph based on a different subset of the data.
 
 <img height = "550" alt="Image" src="https://github.com/user-attachments/assets/9907fa9b-90e3-4783-ad50-a417a8d12674" />
 
@@ -211,8 +211,8 @@ run;
 38. What if the program is modified? Return to the **Code** tab and add a **TITLE** statement above the PROC FREQ step to provide a custom title and an **ODS NOPROCTITLE** statement to hide the procedure name. Click **Run**.
 
 ``` sas
-	title "Number of Loans by State"; 
-	ods noproctitle;
+title "Number of Loans by State"; 
+ods noproctitle;
 ```
 <img height="550" alt="Image" src="https://github.com/user-attachments/assets/e9bcf691-f841-4e00-bdf9-cceb5c838914" />
 
