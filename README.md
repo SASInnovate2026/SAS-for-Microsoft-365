@@ -11,7 +11,7 @@ Learn how to use SAS®  for Microsoft 365 to seamlessly access and share analyti
 
 - Presented by: [Shelby Taylor Nielson](https://www.linkedin.com/in/shelby-taylor-496140142/), Technical Training Consultant, SAS Institute
 
-<img width="192" height="288" alt="Image" src="https://github.com/user-attachments/assets/41c6ed8d-29f2-4841-8337-e0ba69248996" />
+<img width="192" height="192" alt="Image" src="https://github.com/user-attachments/assets/41c6ed8d-29f2-4841-8337-e0ba69248996" />
 
 # Important Information
 This site provides the hands-on [instructions](SAS-for-Microsoft-365-Demo-Instructions.md) for a SAS Innovate 2026 workshop provided by SAS Education. The instructions in these pages are specific to the workshop and should not be considered a replacement for the official SAS Documentation. Some parts of these instructions will only work correctly in the Lab environments provided by SAS Education.
